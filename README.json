@@ -1,0 +1,102 @@
+{
+  "items": [
+    {
+      "description": "",
+      "items": [],
+      "title": "课程实验和报告"
+    },
+    {
+      "description": "大学物理实验相关(数据处理套装+网站登陆API+拉取用户信息) Recolic\n大学物理实验(二)画图\n\nHustLaTeX模板库 Github Website\n毕业论文LaTeX模板 本科-Github 研究生-CTAN\n2023年本科毕业论文LaTeX模版 Sukuna\n本科毕业论文 Typst 模板 HUST-typst-template\n动态网页设计公选课 2018年秋 2020年秋\n超星网上评教脚本 py简陋版",
+      "items": [],
+      "title": "全校通用"
+    },
+    {
+      "description": "计科大多数课程的代码/报告 husixu2 sabertazimi WhatAboutMyStar HUSTERS AlexFanw winderica recolic(recolic-mirror) Nuyoahwjl asterich\nSukuna的个人学解:Sukuna",
+      "items": [],
+      "title": "CS 通用"
+    },
+    {
+      "description": "C课设 zxc479773533 ladlod-2017\nC语言实验自动评测系统:用C++或Python代码交作业! recolic\nC语言实验自动评测系统漏洞笔记(还有一点其它东西) Anonymous Guy\n数据结构实验 zxc479773533\n数据结构课设 zxc479773533-2017",
+      "items": [],
+      "title": "CS 大一"
+    },
+    {
+      "description": "汇编实验 qzwlecr-2018\n数电实验 zxc479773533 uniqueFranky\nverilog实验 zxc479773533\n计算机系统基础 olivercai\n机器学习 uniqueFranky\n计算机组成原理 uniqueFranky\n人工智能导论 uniqueFranky\n大数据导论 uniqueFranky",
+      "items": [],
+      "title": "CS 大二"
+    },
+    {
+      "description": "嵌入式系统实验 olivercai_2022 uniqueFranky\n操作系统 zxc479773533 ladlod olivercai(pke2022) uniqueFranky\n数据库实验 zxc479773533 ladlod(java) olivercai(opengauss2022)\n编译原理实验 olivercai_2023\n大数据管理 tung\n计算机视觉 tung\n接口技术实验 riscv-fpge\n网络空间安全概论 uniqueFranky",
+      "items": [],
+      "title": "CS 大三"
+    },
+    {
+      "description": "生产实习报告 recolic\n人工智能实验 ladlod(hanoi)\n图神经网络实验 tung\n综合能力培养-NEMU niuyinmei ladlod(到PA3.2)\n毕业设计论文 recolic",
+      "items": [],
+      "title": "CS 大四"
+    },
+    {
+      "description": "C语言课设 聪明的小蛇 rapiz",
+      "items": [],
+      "title": "SE 大一"
+    },
+    {
+      "description": "汇编程序设计 ttzztztz_2019年秋\n数据结构 ttzztztz_2019年秋_数独 mhggpo_数独 junkfood_数独 bleem-cai 经典算法\n人机交互设计 Macsed_2020年秋",
+      "items": [],
+      "title": "SE 大二"
+    },
+    {
+      "description": "数字图像处理 DIP ttzztztz_2020年秋\n编译原理 ttzztztz_2020年秋\n计算机组成原理 Logisim ttzztztz_2020年秋\n面向对象系统分析与设计 StarUML ttzztztz_2020年秋\n软件体系结构 ttzztztz_2020年秋\n虚拟现实技术/VR ttzztztz_2021年春\n云计算 ttzztztz_2021年春\n计算机网络 ttzztztz_2021年春 2022春\nERP与供应链 ttzztztz_2021年春\n软件过程管理 ttzztztz_2021年春\n软件文档写作 ttzztztz_2021年春\n软件测试 ttzztztz_2021年春\n工程实训 ttzztztz_IT技术论坛",
+      "items": [],
+      "title": "SE 大三"
+    },
+    {
+      "description": "网安大多数课程的代码/报告 ZCXu1",
+      "items": [],
+      "title": "CSE 通用"
+    },
+    {
+      "description": "C语言程序设计实验 jingfelix-2020 tttturtle-2021",
+      "items": [],
+      "title": "CSE 大一"
+    },
+    {
+      "description": "网络空间安全综合实践 (I) jingfelix-2021\n数据结构课程设计:智慧校园食堂消费系统 Ganliber-2022",
+      "items": [],
+      "title": "CSE 大二"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "小工具"
+    },
+    {
+      "description": "通过 C/C++ 代码生成流程图 cxx2flow\nVivado Wrapper For Linux CommandLine vivado-wrapper",
+      "items": [],
+      "title": "CS/SE/CSE only"
+    },
+    {
+      "description": "华中科技大学人工智能与自动化学院课程资料：AIAHUB （包含部分深度学习及相关基础资料）",
+      "items": [],
+      "title": "其他资料"
+    },
+    {
+      "description": "华中科技大学OEI&SES飞跃手册\n华中科技大学计算机类飞跃手册(2023年秋)",
+      "items": [],
+      "title": "全校通用"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "捐助"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T04:15:17.693Z",
+    "original_repository": "recolic/awesome-hust",
+    "original_repository_sha": "71292a6daa0ecaa66bba687403e9a092edcaef05",
+    "enhanced_repository": "enhansome/enhansome-hust",
+    "enhanced_repository_description": null,
+    "title": "Awesome HUST with stars"
+  }
+}
