@@ -46,7 +46,7 @@ HustLaTeX模板库 [Github](https://github.com/hust-latex) [Website](https://hus
 
 2023年本科毕业论文LaTeX模版 [Sukuna](https://github.com/SukunaShinmyoumaru-hust/template-of-thesis) ⭐ 25 | 🐛 1 | 🌐 TeX | 📅 2026-04-29
 
-本科毕业论文 Typst 模板 [HUST-typst-template](https://github.com/werifu/HUST-typst-template) ⭐ 240 | 🐛 7 | 🌐 Typst | 📅 2025-06-16
+本科毕业论文 Typst 模板 [HUST-typst-template](https://github.com/werifu/HUST-typst-template) ⭐ 239 | 🐛 7 | 🌐 Typst | 📅 2025-06-16
 
 动态网页设计公选课 [2018年秋](https://github.com/ttzztztz/Dynamic-Web-Design-Homework) ⚠️ Archived [2020年秋](https://github.com/ttzztztz/Dynamic-Web-Course-Homework) ⚠️ Archived
 
@@ -56,9 +56,9 @@ HustLaTeX模板库 [Github](https://github.com/hust-latex) [Website](https://hus
 
 > 很多贡献者毕业之后会把全部资料整合为一个仓库, 因此不会再逐项列出. 请不要忘记查看.
 
-计科大多数课程的代码/报告 [husixu2](https://github.com/husixu1/HUST-Homeworks) ⚠️ Archived [sabertazimi](https://github.com/sabertazimi/hust-lab) ⭐ 31 | 🐛 0 | 🌐 C | 📅 2026-08-05 [WhatAboutMyStar](https://github.com/WhatAboutMyStar/HUSTDoubleDegree) ⭐ 71 | 🐛 0 | 🌐 C++ | 📅 2020-08-16 [HUSTERS](https://github.com/HUSTERGS/HUSTCS) ⭐ 164 | 🐛 0 | 🌐 C++ | 📅 2021-04-27 [AlexFanw](https://github.com/AlexFanw/HUSTER-CS) ⭐ 1,384 | 🐛 3 | 🌐 C | 📅 2023-12-13 [winderica](https://github.com/winderica/GoodbyeHUST) ⭐ 5 | 🐛 0 | 📅 2021-09-12 [recolic](https://git.recolic.net/recolic-hust/hust-homeworks-bundle)([recolic-mirror](https://github.com/recolic/hust-homeworks-bundle) ⭐ 1 | 🐛 0 | 🌐 C | 📅 2022-04-12) [Nuyoahwjl](https://github.com/Nuyoahwjl/HUST-CS) ⭐ 112 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2026-06-29 [asterich](https://github.com/asterich/hust-homework-and-labs) ⭐ 0 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2025-07-01
+计科大多数课程的代码/报告 [husixu2](https://github.com/husixu1/HUST-Homeworks) ⚠️ Archived [sabertazimi](https://github.com/sabertazimi/hust-lab) ⭐ 31 | 🐛 0 | 🌐 C | 📅 2026-08-05 [WhatAboutMyStar](https://github.com/WhatAboutMyStar/HUSTDoubleDegree) ⭐ 71 | 🐛 0 | 🌐 C++ | 📅 2020-08-16 [HUSTERS](https://github.com/HUSTERGS/HUSTCS) ⭐ 164 | 🐛 0 | 🌐 C++ | 📅 2021-04-27 [AlexFanw](https://github.com/AlexFanw/HUSTER-CS) ⭐ 1,383 | 🐛 3 | 🌐 C | 📅 2023-12-13 [winderica](https://github.com/winderica/GoodbyeHUST) ⭐ 5 | 🐛 0 | 📅 2021-09-12 [recolic](https://git.recolic.net/recolic-hust/hust-homeworks-bundle)([recolic-mirror](https://github.com/recolic/hust-homeworks-bundle) ⭐ 1 | 🐛 0 | 🌐 C | 📅 2022-04-12) [Nuyoahwjl](https://github.com/Nuyoahwjl/HUST-CS) ⭐ 112 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2026-06-29 [asterich](https://github.com/asterich/hust-homework-and-labs) ⭐ 0 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2025-07-01
 
-Sukuna的个人学解:[Sukuna](https://github.com/SukunaShinmyoumaru-hust/Hust-opensource-Xuejie) ⭐ 636 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2026-08-12
+Sukuna的个人学解:[Sukuna](https://github.com/SukunaShinmyoumaru-hust/Hust-opensource-Xuejie) ⭐ 637 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2026-08-12
 
 ### CS 大一
 
@@ -94,7 +94,7 @@ verilog实验 [zxc479773533](https://github.com/zxc479773533/HUST-Verilog-Labs) 
 
 嵌入式系统实验 [olivercai\_2022](https://github.com/Oliver-242/HUST-Embedded-System) ⭐ 19 | 🐛 0 | 🌐 C | 📅 2022-12-01 [uniqueFranky](https://github.com/uniqueFranky/Embedded-System) ⭐ 0 | 🐛 1 | 🌐 C | 📅 2023-12-27
 
-操作系统 [zxc479773533](https://github.com/zxc479773533/HUST-OperatingSystem-Labs) ⭐ 11 | 🐛 0 | 🌐 C | 📅 2018-05-24 [ladlod](https://github.com/ladlod/hust_cs_ug/tree/master/linux_proc) ⭐ 1 | 🐛 0 | 🌐 C | 📅 2020-01-06 [olivercai(pke2022)](https://github.com/Oliver-242/HUST-Operating-System-PKE) ⭐ 81 | 🐛 0 | 📅 2023-03-14 [uniqueFranky](https://github.com/uniqueFranky/riscv-pke) ⭐ 5 | 🐛 0 | 🌐 C | 📅 2024-04-07
+操作系统 [zxc479773533](https://github.com/zxc479773533/HUST-OperatingSystem-Labs) ⭐ 11 | 🐛 0 | 🌐 C | 📅 2018-05-24 [ladlod](https://github.com/ladlod/hust_cs_ug/tree/master/linux_proc) ⭐ 1 | 🐛 0 | 🌐 C | 📅 2020-01-06 [olivercai(pke2022)](https://github.com/Oliver-242/HUST-Operating-System-PKE) ⭐ 80 | 🐛 0 | 📅 2023-03-14 [uniqueFranky](https://github.com/uniqueFranky/riscv-pke) ⭐ 5 | 🐛 0 | 🌐 C | 📅 2024-04-07
 
 数据库实验 [zxc479773533](https://github.com/zxc479773533/HUST-Database-Design) ⭐ 4 | 🐛 0 | 🌐 PHP | 📅 2019-06-19 [ladlod(java)](https://github.com/ladlod/hust_cs_ug/tree/master/database) ⭐ 1 | 🐛 0 | 🌐 C | 📅 2020-01-06 [olivercai(opengauss2022)](https://github.com/Oliver-242/HUST-database-opengauss) ⭐ 48 | 🐛 0 | 🌐 C++ | 📅 2023-03-14
 
@@ -122,7 +122,7 @@ verilog实验 [zxc479773533](https://github.com/zxc479773533/HUST-Verilog-Labs) 
 
 ### SE 大一
 
-C语言课设 聪明的小蛇 [rapiz](https://github.com/Rapiz1/DungeonRush) ⭐ 2,167 | 🐛 16 | 🌐 C | 📅 2022-01-17
+C语言课设 聪明的小蛇 [rapiz](https://github.com/Rapiz1/DungeonRush) ⭐ 2,166 | 🐛 16 | 🌐 C | 📅 2022-01-17
 
 ### SE 大二
 
@@ -214,7 +214,7 @@ Polyv-cn平台网络课程自动签到脚本 [polyv-fucker](https://github.com/t
 
 英语视听说book2秒速做题 [Macsed](https://github.com/MacsedProtoss/unipus) ⭐ 0 | 🐛 0 | 🌐 JavaScript | 📅 2019-06-01
 
-开源的有线校园网认证工具 [minieap](https://github.com/updateing/minieap) ⭐ 563 | 🐛 41 | 🌐 C | 📅 2023-09-21 [mentohust(ArchWiki)](https://wiki.archlinux.org/index.php/MentoHUST_%28%E7%AE%80%E4%BD%93%E4%B8%AD%E6%96%87%29)
+开源的有线校园网认证工具 [minieap](https://github.com/updateing/minieap) ⭐ 564 | 🐛 41 | 🌐 C | 📅 2023-09-21 [mentohust(ArchWiki)](https://wiki.archlinux.org/index.php/MentoHUST_%28%E7%AE%80%E4%BD%93%E4%B8%AD%E6%96%87%29)
 
 开源的无线校园网认证工具 [hust-login(with RSA support, only python script usable)](https://github.com/Cra1gTucker/hust-login) ⭐ 13 | 🐛 0 | 🌐 Python | 📅 2021-08-10 [hust\_wireless.sh-用于低性能设备的精简版(密码未加密，不推荐)](https://github.com/recolic/awesome-hust/blob/master/res/hust_wireless.sh) ⭐ 739 | 🐛 0 | 🌐 Shell | 📅 2025-06-30 [HUST-login(bash script单文件版，支持RSA加密)](https://github.com/185264646/HUST-login) ⭐ 4 | 🐛 0 | 🌐 Shell | 📅 2024-02-20 [hust-network-login-esp （适合不能刷固件的路由器使用，支持 RSA 加密）](https://github.com/vaaandark/hust-network-login-esp) ⭐ 8 | 🐛 0 | 🌐 C++ | 📅 2023-05-25
 
@@ -261,4 +261,4 @@ Vivado Wrapper For Linux CommandLine [vivado-wrapper](https://github.com/recolic
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-14._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-15._
