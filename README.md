@@ -122,7 +122,7 @@ verilog实验 [zxc479773533](https://github.com/zxc479773533/HUST-Verilog-Labs) 
 
 ### SE 大一
 
-C语言课设 聪明的小蛇 [rapiz](https://github.com/Rapiz1/DungeonRush) ⭐ 2,166 | 🐛 16 | 🌐 C | 📅 2022-01-17
+C语言课设 聪明的小蛇 [rapiz](https://github.com/Rapiz1/DungeonRush) ⭐ 2,167 | 🐛 16 | 🌐 C | 📅 2022-01-17
 
 ### SE 大二
 
@@ -237,7 +237,7 @@ Polyv-cn平台网络课程自动签到脚本 [polyv-fucker](https://github.com/t
 
 ### CS/SE/CSE only
 
-通过 C/C++ 代码生成流程图 [cxx2flow](https://github.com/Enter-tainer/cxx2flow) ⭐ 817 | 🐛 10 | 🌐 Rust | 📅 2026-04-06
+通过 C/C++ 代码生成流程图 [cxx2flow](https://github.com/Enter-tainer/cxx2flow) ⭐ 818 | 🐛 10 | 🌐 Rust | 📅 2026-04-06
 
 Vivado Wrapper For Linux CommandLine [vivado-wrapper](https://github.com/recolic/vivado-wrapper) ⭐ 14 | 🐛 0 | 🌐 Shell | 📅 2021-03-25
 
@@ -261,4 +261,4 @@ Vivado Wrapper For Linux CommandLine [vivado-wrapper](https://github.com/recolic
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-19._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-20._
