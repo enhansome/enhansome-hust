@@ -1,7 +1,936 @@
 {
-  "items": [],
+  "items": [
+    {
+      "description": "此部分急需被补充",
+      "items": [
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "毕业论文LaTeX模板 本科-Github",
+              "description": "研究生-CTAN",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 83118435,
+                "language": "TeX",
+                "last_commit": "2022-04-12T03:31:16Z",
+                "owner": "skinaze",
+                "repo": "HUSTPaperTemp",
+                "stars": 334
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "本科毕业论文 Typst 模板 HUST-typst-template",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 621688355,
+                "language": "Typst",
+                "last_commit": "2025-06-16T14:12:45Z",
+                "owner": "werifu",
+                "repo": "HUST-typst-template",
+                "stars": 239
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "动态网页设计公选课 2018年秋",
+              "description": "2020年秋",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 161973746,
+                "language": "PHP",
+                "last_commit": "2021-01-15T07:42:04Z",
+                "owner": "ttzztztz",
+                "repo": "Dynamic-Web-Design-Homework",
+                "stars": 1
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "超星网上评教脚本 py简陋版",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 510425625,
+                "language": "Python",
+                "last_commit": "2022-07-04T16:13:01Z",
+                "owner": "xylonx",
+                "repo": "Fxxk-Hust-teachingScore",
+                "stars": 1
+              }
+            }
+          ],
+          "description": "大学物理实验相关(数据处理套装+网站登陆API+拉取用户信息) Recolic\n大学物理实验(二)画图\nHustLaTeX模板库 Github Website\n2023年本科毕业论文LaTeX模版 Sukuna",
+          "node_type": "group",
+          "title": "全校通用"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "计科大多数课程的代码/报告 husixu2",
+              "description": "sabertazimi WhatAboutMyStar HUSTERS AlexFanw winderica recolic(recolic-mirror) Nuyoahwjl asterich",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 112580795,
+                "language": "C++",
+                "last_commit": "2019-07-15T13:18:31Z",
+                "owner": "husixu1",
+                "repo": "HUST-Homeworks",
+                "stars": 266
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Sukuna的个人学解:Sukuna",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 617468854,
+                "language": "Jupyter Notebook",
+                "last_commit": "2026-08-12T03:11:30Z",
+                "owner": "SukunaShinmyoumaru-hust",
+                "repo": "Hust-opensource-Xuejie",
+                "stars": 636
+              }
+            }
+          ],
+          "description": "很多贡献者毕业之后会把全部资料整合为一个仓库, 因此不会再逐项列出. 请不要忘记查看.",
+          "node_type": "group",
+          "title": "CS 通用"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "C课设 zxc479773533",
+              "description": "ladlod-2017",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 100101420,
+                "language": "C",
+                "last_commit": "2017-11-01T06:36:57Z",
+                "owner": "zxc479773533",
+                "repo": "C-curriculum-design",
+                "stars": 4
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "数据结构实验 zxc479773533",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 110958870,
+                "language": "C",
+                "last_commit": "2019-06-19T07:28:49Z",
+                "owner": "zxc479773533",
+                "repo": "HUST-DataStructure-Labs",
+                "stars": 5
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "数据结构课设 zxc479773533-2017",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 121926576,
+                "language": "C++",
+                "last_commit": "2019-06-19T07:29:53Z",
+                "owner": "zxc479773533",
+                "repo": "DS-curriculum-design",
+                "stars": 0
+              }
+            }
+          ],
+          "description": "C语言实验自动评测系统:用C++或Python代码交作业! recolic\nC语言实验自动评测系统漏洞笔记(还有一点其它东西) Anonymous Guy",
+          "node_type": "group",
+          "title": "CS 大一"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "汇编实验 qzwlecr-2018",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 126867105,
+                "language": "Assembly",
+                "last_commit": "2018-04-22T03:03:00Z",
+                "owner": "qzwlecr",
+                "repo": "80x86-asm-learning",
+                "stars": 7
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "数电实验 zxc479773533",
+              "description": "uniqueFranky",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 136584400,
+                "language": "Verilog",
+                "last_commit": "2018-06-27T01:27:46Z",
+                "owner": "zxc479773533",
+                "repo": "HUST-Verilog-Labs",
+                "stars": 21
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "verilog实验 zxc479773533",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 136584400,
+                "language": "Verilog",
+                "last_commit": "2018-06-27T01:27:46Z",
+                "owner": "zxc479773533",
+                "repo": "HUST-Verilog-Labs",
+                "stars": 21
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "计算机系统基础 olivercai",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 612914859,
+                "language": "C",
+                "last_commit": "2023-03-12T11:40:38Z",
+                "owner": "Oliver-242",
+                "repo": "HUST-Foundation-of-Computer-System",
+                "stars": 18
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "机器学习 uniqueFranky",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 627341150,
+                "language": "Python",
+                "last_commit": "2023-05-19T02:17:03Z",
+                "owner": "uniqueFranky",
+                "repo": "BinaryClassifierBasedOnAdapitiveBoost",
+                "stars": 1
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "计算机组成原理 uniqueFranky",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 684557097,
+                "language": null,
+                "last_commit": "2023-09-03T12:06:03Z",
+                "owner": "uniqueFranky",
+                "repo": "cpu21-riscv",
+                "stars": 1
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "人工智能导论 uniqueFranky",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 578913001,
+                "language": "Go",
+                "last_commit": "2023-03-05T02:54:29Z",
+                "owner": "uniqueFranky",
+                "repo": "gobang",
+                "stars": 3
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "大数据导论 uniqueFranky",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 621326956,
+                "language": "Java",
+                "last_commit": "2023-03-30T12:49:49Z",
+                "owner": "uniqueFranky",
+                "repo": "FilmRelation",
+                "stars": 0
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "CS 大二"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "嵌入式系统实验 olivercai_2022",
+              "description": "uniqueFranky",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 563875576,
+                "language": "C",
+                "last_commit": "2022-12-01T01:40:03Z",
+                "owner": "Oliver-242",
+                "repo": "HUST-Embedded-System",
+                "stars": 19
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "操作系统 zxc479773533",
+              "description": "ladlod olivercai(pke2022) uniqueFranky",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 126944100,
+                "language": "C",
+                "last_commit": "2018-05-24T02:13:40Z",
+                "owner": "zxc479773533",
+                "repo": "HUST-OperatingSystem-Labs",
+                "stars": 11
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "数据库实验 zxc479773533",
+              "description": "ladlod(java) olivercai(opengauss2022)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 134032305,
+                "language": "PHP",
+                "last_commit": "2019-06-19T07:15:53Z",
+                "owner": "zxc479773533",
+                "repo": "HUST-Database-Design",
+                "stars": 4
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "编译原理实验 olivercai_2023",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 631416846,
+                "language": "C++",
+                "last_commit": "2023-06-05T02:05:07Z",
+                "owner": "Oliver-242",
+                "repo": "HUST-Compiler-Principles-Experiment",
+                "stars": 74
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "大数据管理 tung",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 631498101,
+                "language": null,
+                "last_commit": "2023-06-14T06:17:11Z",
+                "owner": "Elubrazione",
+                "repo": "bdm_labs_hust",
+                "stars": 14
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "计算机视觉 tung",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 615314124,
+                "language": "Python",
+                "last_commit": "2023-11-27T06:02:43Z",
+                "owner": "Elubrazione",
+                "repo": "cv_labs_hust",
+                "stars": 7
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "接口技术实验 riscv-fpge",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 768537038,
+                "language": "C",
+                "last_commit": "2024-03-07T10:07:13Z",
+                "owner": "nothiny",
+                "repo": "hust_rvfpga",
+                "stars": 1
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "网络空间安全概论 uniqueFranky",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 810786231,
+                "language": "Python",
+                "last_commit": "2024-12-30T07:40:12Z",
+                "owner": "uniqueFranky",
+                "repo": "ImageEncryptor",
+                "stars": 3
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "CS 大三"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "人工智能实验 ladlod(hanoi)",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 218916291,
+                "language": "C",
+                "last_commit": "2020-01-06T17:03:13Z",
+                "owner": "ladlod",
+                "repo": "hust-csug",
+                "stars": 1
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "图神经网络实验 tung",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 718392244,
+                "language": "Python",
+                "last_commit": "2023-12-04T15:42:27Z",
+                "owner": "Elubrazione",
+                "repo": "gnn_lab_hust",
+                "stars": 7
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "综合能力培养-NEMU niuyinmei",
+              "description": "ladlod(到PA3.2)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 165082637,
+                "language": "C",
+                "last_commit": "2020-06-01T09:52:42Z",
+                "owner": "niuyinmei",
+                "repo": "ICS2018",
+                "stars": 16
+              }
+            }
+          ],
+          "description": "生产实习报告 recolic\n毕业设计论文 recolic",
+          "node_type": "group",
+          "title": "CS 大四"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "C语言课设 聪明的小蛇 rapiz",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 242162049,
+                "language": "C",
+                "last_commit": "2022-01-17T07:50:07Z",
+                "owner": "yujqiao",
+                "repo": "DungeonRush",
+                "stars": 2169
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "SE 大一"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "汇编程序设计 ttzztztz_2019年秋",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 207293324,
+                "language": "Assembly",
+                "last_commit": "2021-01-15T07:27:51Z",
+                "owner": "ttzztztz",
+                "repo": "80x86_assembly-design",
+                "stars": 0
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "数据结构 ttzztztz_2019年秋_数独",
+              "description": "mhggpo_数独 junkfood_数独 bleem-cai 经典算法",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 221955160,
+                "language": "C++",
+                "last_commit": "2019-12-04T07:22:40Z",
+                "owner": "ttzztztz",
+                "repo": "SudokuCLI",
+                "stars": 0
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "人机交互设计 Macsed_2020年秋",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 342122315,
+                "language": "JavaScript",
+                "last_commit": "2021-02-25T04:40:25Z",
+                "owner": "MacsedProtoss",
+                "repo": "HMI_Course_Design",
+                "stars": 0
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "SE 大二"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "数字图像处理 DIP ttzztztz_2020年秋",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 316631505,
+                "language": "Python",
+                "last_commit": "2021-01-15T07:30:04Z",
+                "owner": "ttzztztz",
+                "repo": "Digital-Image-Process-Course",
+                "stars": 0
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "编译原理 ttzztztz_2020年秋",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 300554918,
+                "language": "C++",
+                "last_commit": "2020-11-23T02:33:09Z",
+                "owner": "ttzztztz",
+                "repo": "Compiler-Course-Design",
+                "stars": 2
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "计算机组成原理 Logisim ttzztztz_2020年秋",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 313839175,
+                "language": null,
+                "last_commit": "2021-01-15T07:38:54Z",
+                "owner": "ttzztztz",
+                "repo": "Computer-Composition-Course-Homework",
+                "stars": 0
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "软件体系结构 ttzztztz_2020年秋",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 302298355,
+                "language": "TypeScript",
+                "last_commit": "2021-01-15T07:32:28Z",
+                "owner": "ttzztztz",
+                "repo": "Software-Structure-Homework",
+                "stars": 0
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "虚拟现实技术/VR ttzztztz_2021年春",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 376045378,
+                "language": "C#",
+                "last_commit": "2021-06-30T09:17:15Z",
+                "owner": "ttzztztz",
+                "repo": "sse-vr",
+                "stars": 2
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "云计算 ttzztztz_2021年春",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 361585213,
+                "language": "Shell",
+                "last_commit": "2021-06-09T12:55:42Z",
+                "owner": "ttzztztz",
+                "repo": "sse-cloud-computing",
+                "stars": 0
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "计算机网络 ttzztztz_2021年春",
+              "description": "2022春",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 369687602,
+                "language": "C",
+                "last_commit": "2021-06-09T11:40:26Z",
+                "owner": "ttzztztz",
+                "repo": "sse-computer-network",
+                "stars": 0
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "ERP与供应链 ttzztztz_2021年春",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 370675006,
+                "language": null,
+                "last_commit": "2021-06-03T12:11:07Z",
+                "owner": "ttzztztz",
+                "repo": "sse-erp",
+                "stars": 1
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "软件过程管理 ttzztztz_2021年春",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 357187247,
+                "language": null,
+                "last_commit": "2021-04-28T05:48:47Z",
+                "owner": "ttzztztz",
+                "repo": "sse-procedure",
+                "stars": 0
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "软件文档写作 ttzztztz_2021年春",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 353901741,
+                "language": null,
+                "last_commit": "2021-04-03T08:05:02Z",
+                "owner": "ttzztztz",
+                "repo": "sse-document",
+                "stars": 0
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "软件测试 ttzztztz_2021年春",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 348586008,
+                "language": "TypeScript",
+                "last_commit": "2021-04-02T11:47:42Z",
+                "owner": "ttzztztz",
+                "repo": "sse-test",
+                "stars": 0
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "工程实训 ttzztztz_IT技术论坛",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 164427214,
+                "language": "TypeScript",
+                "last_commit": "2022-12-22T09:53:08Z",
+                "owner": "UniqueStudio",
+                "repo": "UniqueBBS",
+                "stars": 16
+              }
+            }
+          ],
+          "description": "面向对象系统分析与设计 StarUML ttzztztz_2020年秋",
+          "node_type": "group",
+          "title": "SE 大三"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "网安大多数课程的代码/报告 ZCXu1",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 504862381,
+                "language": "C",
+                "last_commit": "2023-09-14T00:27:50Z",
+                "owner": "zichuanxu",
+                "repo": "HUST-CSE-Experiments",
+                "stars": 387
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "CSE 通用"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "C语言程序设计实验 jingfelix-2020",
+              "description": "tttturtle-2021",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 308847065,
+                "language": "C",
+                "last_commit": "2021-11-02T04:55:48Z",
+                "owner": "jingfelix",
+                "repo": "HUST-C-Programming-language",
+                "stars": 14
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "CSE 大一"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "网络空间安全综合实践 (I) jingfelix-2021",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 410321495,
+                "language": null,
+                "last_commit": "2022-06-08T08:58:32Z",
+                "owner": "jingfelix",
+                "repo": "HUST-CSE-Pass-level-1",
+                "stars": 27
+              }
+            }
+          ],
+          "description": "数据结构课程设计:智慧校园食堂消费系统 Ganliber-2022",
+          "node_type": "group",
+          "title": "CSE 大二"
+        }
+      ],
+      "title": "课程实验和报告"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "超星刷课程访问量工具 chaoxing-pv-fucker",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 346701681,
+                "language": "JavaScript",
+                "last_commit": "2021-03-12T01:41:16Z",
+                "owner": "ttzztztz",
+                "repo": "chaoxing-pv-fucker",
+                "stars": 0
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "超星题库搜索小工具 Macsed(仅限MacOS)",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 257017755,
+                "language": "Swift",
+                "last_commit": "2020-04-19T16:49:04Z",
+                "owner": "MacsedProtoss",
+                "repo": "CxmoocAnswerBrowser",
+                "stars": 1
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "蓝墨云课堂自动签到 YAMT-Fucker",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 338519430,
+                "language": "JavaScript",
+                "last_commit": "2021-02-13T07:20:49Z",
+                "owner": "CGSportFucker",
+                "repo": "YAMT-Fucker",
+                "stars": 1
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "英语视听说刷在线时长 Macsed",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 189589406,
+                "language": "Python",
+                "last_commit": "2021-06-02T02:59:59Z",
+                "owner": "MacsedProtoss",
+                "repo": "NewHorizon-TimeFaker",
+                "stars": 3
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "英语视听说book2秒速做题 Macsed",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 189739954,
+                "language": "JavaScript",
+                "last_commit": "2019-06-01T14:20:08Z",
+                "owner": "MacsedProtoss",
+                "repo": "unipus",
+                "stars": 0
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "开源的有线校园网认证工具 minieap",
+              "description": "mentohust(ArchWiki)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 70596736,
+                "language": "C",
+                "last_commit": "2023-09-21T14:38:26Z",
+                "owner": "updateing",
+                "repo": "minieap",
+                "stars": 564
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "开源的无线校园网认证工具 hust-login(with RSA support, only python script usable)",
+              "description": "hust_wireless.sh-用于低性能设备的精简版(密码未加密，不推荐) HUST-login(bash script单文件版，支持RSA加密) hust-network-login-esp （适合不能刷固件的路由器使用，支持 RSA 加密）",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 180378096,
+                "language": "Python",
+                "last_commit": "2021-08-10T06:13:18Z",
+                "owner": "Cra1gTucker",
+                "repo": "hust-login",
+                "stars": 13
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "华科GPA计算小工具 HUSTERGS",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 200170416,
+                "language": "Python",
+                "last_commit": "2020-03-12T13:46:59Z",
+                "owner": "HUSTERGS",
+                "repo": "HUST-GPA",
+                "stars": 13
+              }
+            }
+          ],
+          "description": "Markdown文档一键转换华科docx报告工具 md2report 文档\n微助教自动签到工具（支持普通/GPS/二维码签到）yatm\n签个马 签到平台框架(支持多任务超星签到+微助教Android/Web二维码回传签到+微信通知推送) sign-your-horse cloudscan-android cloudscan-web\nPolyv-cn平台网络课程自动签到脚本 polyv-fucker\n超星学习通签到工具(支持手势签到) ttzztztz\n返校宣讲（招办汇公众号）刷扫码人数 Macsed\n创高体育打卡脚本 请勿在最新创高软件使用旧的创高体育打卡脚本，已知被检测 新版过检测,仅限iOS+macOS\n智享校园免费洗澡工具 zhixiang-fucker\n适合华科校园卡的MIFARE卡复制教程 recolic\n课程表自动导出(hub到ics) MMMartt\n课程表自动导出(hub-excel到ics) MMMartt\n华科电费相关 在线查询(仅校园网) 在线查询与充值(仅校园网)\n豆瓣图书华科图书馆借阅情况查询助手\n华中大微校园-应用中心 不必使用微信打开\n新版(2023)统一身份认证登录库 HustPass2023(Python)\n军理/军事理论电子电气资源网线上作业答案自动填充脚本 gongchen618\n为华科沁苑等老旧寝室安装简易门禁 vaaandark",
+          "node_type": "group",
+          "title": "全校通用"
+        }
+      ],
+      "title": "小工具"
+    }
+  ],
   "metadata": {
-    "last_updated": "2026-08-24T03:33:17.965Z",
+    "last_updated": "2026-08-24T14:19:35.806Z",
     "original_repository": "recolic/awesome-hust",
     "original_repository_id": 136359927,
     "original_repository_sha": "71292a6daa0ecaa66bba687403e9a092edcaef05",
