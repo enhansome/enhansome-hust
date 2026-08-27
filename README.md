@@ -122,7 +122,7 @@ verilog实验 [zxc479773533](https://github.com/zxc479773533/HUST-Verilog-Labs) 
 
 ### SE 大一
 
-C语言课设 聪明的小蛇 [rapiz](https://github.com/Rapiz1/DungeonRush) ⭐ 2,169 | 🐛 16 | 🌐 C | 📅 2022-01-17
+C语言课设 聪明的小蛇 [rapiz](https://github.com/Rapiz1/DungeonRush) ⭐ 2,170 | 🐛 16 | 🌐 C | 📅 2022-01-17
 
 ### SE 大二
 
@@ -206,7 +206,7 @@ Polyv-cn平台网络课程自动签到脚本 [polyv-fucker](https://github.com/t
 
 适合华科校园卡的MIFARE卡复制教程 [recolic](https://gist.github.com/recolic/d7da64545e9330c8a79fed283d6955c4)
 
-课程表自动导出(hub到ics) [MMMartt](https://github.com/MMMartt/hust-courses-to-ics) ⭐ 59 | 🐛 8 | 🌐 JavaScript | 📅 2023-03-04
+课程表自动导出(hub到ics) [MMMartt](https://github.com/MMMartt/hust-courses-to-ics) ⭐ 60 | 🐛 8 | 🌐 JavaScript | 📅 2023-03-04
 
 课程表自动导出(hub-excel到ics) [MMMartt](https://github.com/MMMartt/HUST-course-Excel-to-ICS) ⭐ 5 | 🐛 0 | 🌐 TypeScript | 📅 2020-09-19
 
@@ -261,4 +261,4 @@ Vivado Wrapper For Linux CommandLine [vivado-wrapper](https://github.com/recolic
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-26._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-27._

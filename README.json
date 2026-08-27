@@ -479,7 +479,7 @@
                 "last_commit": "2022-01-17T07:50:07Z",
                 "owner": "yujqiao",
                 "repo": "DungeonRush",
-                "stars": 2169
+                "stars": 2170
               }
             }
           ],
@@ -930,9 +930,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-26T03:34:15.666Z",
-    "original_repository": "recolic/awesome-hust",
-    "original_repository_id": 136359927,
+    "last_updated": "2026-08-27T11:50:05.175Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 136359927,
+      "language": "Shell",
+      "last_commit": "2025-06-30T00:32:34Z",
+      "owner": "recolic",
+      "repo": "awesome-hust",
+      "stars": 739
+    },
     "original_repository_sha": "71292a6daa0ecaa66bba687403e9a092edcaef05",
     "enhanced_repository": "enhansome/enhansome-hust",
     "enhanced_repository_description": null,
