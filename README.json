@@ -18,7 +18,8 @@
                 "owner": "skinaze",
                 "repo": "HUSTPaperTemp",
                 "stars": 334
-              }
+              },
+              "first_seen": "2026-08-28T14:33:45.428Z"
             },
             {
               "node_type": "item",
@@ -32,8 +33,9 @@
                 "last_commit": "2025-06-16T14:12:45Z",
                 "owner": "werifu",
                 "repo": "HUST-typst-template",
-                "stars": 239
-              }
+                "stars": 238
+              },
+              "first_seen": "2026-08-28T14:33:45.428Z"
             },
             {
               "node_type": "item",
@@ -48,7 +50,8 @@
                 "owner": "ttzztztz",
                 "repo": "Dynamic-Web-Design-Homework",
                 "stars": 1
-              }
+              },
+              "first_seen": "2026-08-28T14:33:45.428Z"
             },
             {
               "node_type": "item",
@@ -63,7 +66,8 @@
                 "owner": "xylonx",
                 "repo": "Fxxk-Hust-teachingScore",
                 "stars": 1
-              }
+              },
+              "first_seen": "2026-08-28T14:33:45.428Z"
             }
           ],
           "description": "大学物理实验相关(数据处理套装+网站登陆API+拉取用户信息) Recolic\n大学物理实验(二)画图\nHustLaTeX模板库 Github Website\n2023年本科毕业论文LaTeX模版 Sukuna",
@@ -85,7 +89,8 @@
                 "owner": "husixu1",
                 "repo": "HUST-Homeworks",
                 "stars": 266
-              }
+              },
+              "first_seen": "2026-08-28T14:33:45.428Z"
             },
             {
               "node_type": "item",
@@ -99,8 +104,9 @@
                 "last_commit": "2026-08-12T03:11:30Z",
                 "owner": "SukunaShinmyoumaru-hust",
                 "repo": "Hust-opensource-Xuejie",
-                "stars": 640
-              }
+                "stars": 645
+              },
+              "first_seen": "2026-08-28T14:33:45.428Z"
             }
           ],
           "description": "很多贡献者毕业之后会把全部资料整合为一个仓库, 因此不会再逐项列出. 请不要忘记查看.",
@@ -122,7 +128,8 @@
                 "owner": "zxc479773533",
                 "repo": "C-curriculum-design",
                 "stars": 4
-              }
+              },
+              "first_seen": "2026-08-28T14:33:45.428Z"
             },
             {
               "node_type": "item",
@@ -137,7 +144,8 @@
                 "owner": "zxc479773533",
                 "repo": "HUST-DataStructure-Labs",
                 "stars": 5
-              }
+              },
+              "first_seen": "2026-08-28T14:33:45.428Z"
             },
             {
               "node_type": "item",
@@ -152,7 +160,8 @@
                 "owner": "zxc479773533",
                 "repo": "DS-curriculum-design",
                 "stars": 0
-              }
+              },
+              "first_seen": "2026-08-28T14:33:45.428Z"
             }
           ],
           "description": "C语言实验自动评测系统:用C++或Python代码交作业! recolic\nC语言实验自动评测系统漏洞笔记(还有一点其它东西) Anonymous Guy",
@@ -174,7 +183,8 @@
                 "owner": "qzwlecr",
                 "repo": "80x86-asm-learning",
                 "stars": 7
-              }
+              },
+              "first_seen": "2026-08-28T14:33:45.428Z"
             },
             {
               "node_type": "item",
@@ -189,7 +199,8 @@
                 "owner": "zxc479773533",
                 "repo": "HUST-Verilog-Labs",
                 "stars": 21
-              }
+              },
+              "first_seen": "2026-08-28T14:33:45.428Z"
             },
             {
               "node_type": "item",
@@ -204,7 +215,8 @@
                 "owner": "zxc479773533",
                 "repo": "HUST-Verilog-Labs",
                 "stars": 21
-              }
+              },
+              "first_seen": "2026-08-28T14:33:45.428Z"
             },
             {
               "node_type": "item",
@@ -219,7 +231,8 @@
                 "owner": "Oliver-242",
                 "repo": "HUST-Foundation-of-Computer-System",
                 "stars": 18
-              }
+              },
+              "first_seen": "2026-08-28T14:33:45.428Z"
             },
             {
               "node_type": "item",
@@ -234,7 +247,8 @@
                 "owner": "uniqueFranky",
                 "repo": "BinaryClassifierBasedOnAdapitiveBoost",
                 "stars": 1
-              }
+              },
+              "first_seen": "2026-08-28T14:33:45.428Z"
             },
             {
               "node_type": "item",
@@ -249,7 +263,8 @@
                 "owner": "uniqueFranky",
                 "repo": "cpu21-riscv",
                 "stars": 1
-              }
+              },
+              "first_seen": "2026-08-28T14:33:45.428Z"
             },
             {
               "node_type": "item",
@@ -264,7 +279,8 @@
                 "owner": "uniqueFranky",
                 "repo": "gobang",
                 "stars": 3
-              }
+              },
+              "first_seen": "2026-08-28T14:33:45.428Z"
             },
             {
               "node_type": "item",
@@ -279,7 +295,8 @@
                 "owner": "uniqueFranky",
                 "repo": "FilmRelation",
                 "stars": 0
-              }
+              },
+              "first_seen": "2026-08-28T14:33:45.428Z"
             }
           ],
           "description": null,
@@ -301,7 +318,8 @@
                 "owner": "Oliver-242",
                 "repo": "HUST-Embedded-System",
                 "stars": 19
-              }
+              },
+              "first_seen": "2026-08-28T14:33:45.428Z"
             },
             {
               "node_type": "item",
@@ -316,7 +334,8 @@
                 "owner": "zxc479773533",
                 "repo": "HUST-OperatingSystem-Labs",
                 "stars": 11
-              }
+              },
+              "first_seen": "2026-08-28T14:33:45.428Z"
             },
             {
               "node_type": "item",
@@ -331,7 +350,8 @@
                 "owner": "zxc479773533",
                 "repo": "HUST-Database-Design",
                 "stars": 4
-              }
+              },
+              "first_seen": "2026-08-28T14:33:45.428Z"
             },
             {
               "node_type": "item",
@@ -346,7 +366,8 @@
                 "owner": "Oliver-242",
                 "repo": "HUST-Compiler-Principles-Experiment",
                 "stars": 74
-              }
+              },
+              "first_seen": "2026-08-28T14:33:45.428Z"
             },
             {
               "node_type": "item",
@@ -361,7 +382,8 @@
                 "owner": "Elubrazione",
                 "repo": "bdm_labs_hust",
                 "stars": 14
-              }
+              },
+              "first_seen": "2026-08-28T14:33:45.428Z"
             },
             {
               "node_type": "item",
@@ -376,7 +398,8 @@
                 "owner": "Elubrazione",
                 "repo": "cv_labs_hust",
                 "stars": 7
-              }
+              },
+              "first_seen": "2026-08-28T14:33:45.428Z"
             },
             {
               "node_type": "item",
@@ -391,7 +414,8 @@
                 "owner": "nothiny",
                 "repo": "hust_rvfpga",
                 "stars": 1
-              }
+              },
+              "first_seen": "2026-08-28T14:33:45.428Z"
             },
             {
               "node_type": "item",
@@ -406,7 +430,8 @@
                 "owner": "uniqueFranky",
                 "repo": "ImageEncryptor",
                 "stars": 3
-              }
+              },
+              "first_seen": "2026-08-28T14:33:45.428Z"
             }
           ],
           "description": null,
@@ -428,7 +453,8 @@
                 "owner": "ladlod",
                 "repo": "hust-csug",
                 "stars": 1
-              }
+              },
+              "first_seen": "2026-08-28T14:33:45.428Z"
             },
             {
               "node_type": "item",
@@ -443,7 +469,8 @@
                 "owner": "Elubrazione",
                 "repo": "gnn_lab_hust",
                 "stars": 7
-              }
+              },
+              "first_seen": "2026-08-28T14:33:45.428Z"
             },
             {
               "node_type": "item",
@@ -458,7 +485,8 @@
                 "owner": "niuyinmei",
                 "repo": "ICS2018",
                 "stars": 16
-              }
+              },
+              "first_seen": "2026-08-28T14:33:45.428Z"
             }
           ],
           "description": "生产实习报告 recolic\n毕业设计论文 recolic",
@@ -480,7 +508,8 @@
                 "owner": "yujqiao",
                 "repo": "DungeonRush",
                 "stars": 2170
-              }
+              },
+              "first_seen": "2026-08-28T14:33:45.428Z"
             }
           ],
           "description": null,
@@ -502,7 +531,8 @@
                 "owner": "ttzztztz",
                 "repo": "80x86_assembly-design",
                 "stars": 0
-              }
+              },
+              "first_seen": "2026-08-28T14:33:45.428Z"
             },
             {
               "node_type": "item",
@@ -517,7 +547,8 @@
                 "owner": "ttzztztz",
                 "repo": "SudokuCLI",
                 "stars": 0
-              }
+              },
+              "first_seen": "2026-08-28T14:33:45.428Z"
             },
             {
               "node_type": "item",
@@ -532,7 +563,8 @@
                 "owner": "MacsedProtoss",
                 "repo": "HMI_Course_Design",
                 "stars": 0
-              }
+              },
+              "first_seen": "2026-08-28T14:33:45.428Z"
             }
           ],
           "description": null,
@@ -554,7 +586,8 @@
                 "owner": "ttzztztz",
                 "repo": "Digital-Image-Process-Course",
                 "stars": 0
-              }
+              },
+              "first_seen": "2026-08-28T14:33:45.428Z"
             },
             {
               "node_type": "item",
@@ -569,7 +602,8 @@
                 "owner": "ttzztztz",
                 "repo": "Compiler-Course-Design",
                 "stars": 2
-              }
+              },
+              "first_seen": "2026-08-28T14:33:45.428Z"
             },
             {
               "node_type": "item",
@@ -584,7 +618,8 @@
                 "owner": "ttzztztz",
                 "repo": "Computer-Composition-Course-Homework",
                 "stars": 0
-              }
+              },
+              "first_seen": "2026-08-28T14:33:45.428Z"
             },
             {
               "node_type": "item",
@@ -599,7 +634,8 @@
                 "owner": "ttzztztz",
                 "repo": "Software-Structure-Homework",
                 "stars": 0
-              }
+              },
+              "first_seen": "2026-08-28T14:33:45.428Z"
             },
             {
               "node_type": "item",
@@ -614,7 +650,8 @@
                 "owner": "ttzztztz",
                 "repo": "sse-vr",
                 "stars": 2
-              }
+              },
+              "first_seen": "2026-08-28T14:33:45.428Z"
             },
             {
               "node_type": "item",
@@ -629,7 +666,8 @@
                 "owner": "ttzztztz",
                 "repo": "sse-cloud-computing",
                 "stars": 0
-              }
+              },
+              "first_seen": "2026-08-28T14:33:45.428Z"
             },
             {
               "node_type": "item",
@@ -644,7 +682,8 @@
                 "owner": "ttzztztz",
                 "repo": "sse-computer-network",
                 "stars": 0
-              }
+              },
+              "first_seen": "2026-08-28T14:33:45.428Z"
             },
             {
               "node_type": "item",
@@ -659,7 +698,8 @@
                 "owner": "ttzztztz",
                 "repo": "sse-erp",
                 "stars": 1
-              }
+              },
+              "first_seen": "2026-08-28T14:33:45.428Z"
             },
             {
               "node_type": "item",
@@ -674,7 +714,8 @@
                 "owner": "ttzztztz",
                 "repo": "sse-procedure",
                 "stars": 0
-              }
+              },
+              "first_seen": "2026-08-28T14:33:45.428Z"
             },
             {
               "node_type": "item",
@@ -689,7 +730,8 @@
                 "owner": "ttzztztz",
                 "repo": "sse-document",
                 "stars": 0
-              }
+              },
+              "first_seen": "2026-08-28T14:33:45.428Z"
             },
             {
               "node_type": "item",
@@ -704,7 +746,8 @@
                 "owner": "ttzztztz",
                 "repo": "sse-test",
                 "stars": 0
-              }
+              },
+              "first_seen": "2026-08-28T14:33:45.428Z"
             },
             {
               "node_type": "item",
@@ -719,7 +762,8 @@
                 "owner": "UniqueStudio",
                 "repo": "UniqueBBS",
                 "stars": 16
-              }
+              },
+              "first_seen": "2026-08-28T14:33:45.428Z"
             }
           ],
           "description": "面向对象系统分析与设计 StarUML ttzztztz_2020年秋",
@@ -741,7 +785,8 @@
                 "owner": "zichuanxu",
                 "repo": "HUST-CSE-Experiments",
                 "stars": 388
-              }
+              },
+              "first_seen": "2026-08-28T14:33:45.428Z"
             }
           ],
           "description": null,
@@ -763,7 +808,8 @@
                 "owner": "jingfelix",
                 "repo": "HUST-C-Programming-language",
                 "stars": 14
-              }
+              },
+              "first_seen": "2026-08-28T14:33:45.428Z"
             }
           ],
           "description": null,
@@ -785,7 +831,8 @@
                 "owner": "jingfelix",
                 "repo": "HUST-CSE-Pass-level-1",
                 "stars": 27
-              }
+              },
+              "first_seen": "2026-08-28T14:33:45.428Z"
             }
           ],
           "description": "数据结构课程设计:智慧校园食堂消费系统 Ganliber-2022",
@@ -813,7 +860,8 @@
                 "owner": "ttzztztz",
                 "repo": "chaoxing-pv-fucker",
                 "stars": 0
-              }
+              },
+              "first_seen": "2026-08-28T14:33:45.428Z"
             },
             {
               "node_type": "item",
@@ -828,7 +876,8 @@
                 "owner": "MacsedProtoss",
                 "repo": "CxmoocAnswerBrowser",
                 "stars": 1
-              }
+              },
+              "first_seen": "2026-08-28T14:33:45.428Z"
             },
             {
               "node_type": "item",
@@ -843,7 +892,8 @@
                 "owner": "CGSportFucker",
                 "repo": "YAMT-Fucker",
                 "stars": 1
-              }
+              },
+              "first_seen": "2026-08-28T14:33:45.428Z"
             },
             {
               "node_type": "item",
@@ -858,7 +908,8 @@
                 "owner": "MacsedProtoss",
                 "repo": "NewHorizon-TimeFaker",
                 "stars": 3
-              }
+              },
+              "first_seen": "2026-08-28T14:33:45.428Z"
             },
             {
               "node_type": "item",
@@ -873,7 +924,8 @@
                 "owner": "MacsedProtoss",
                 "repo": "unipus",
                 "stars": 0
-              }
+              },
+              "first_seen": "2026-08-28T14:33:45.428Z"
             },
             {
               "node_type": "item",
@@ -888,7 +940,8 @@
                 "owner": "updateing",
                 "repo": "minieap",
                 "stars": 564
-              }
+              },
+              "first_seen": "2026-08-28T14:33:45.428Z"
             },
             {
               "node_type": "item",
@@ -903,7 +956,8 @@
                 "owner": "Cra1gTucker",
                 "repo": "hust-login",
                 "stars": 13
-              }
+              },
+              "first_seen": "2026-08-28T14:33:45.428Z"
             },
             {
               "node_type": "item",
@@ -918,7 +972,8 @@
                 "owner": "HUSTERGS",
                 "repo": "HUST-GPA",
                 "stars": 13
-              }
+              },
+              "first_seen": "2026-08-28T14:33:45.428Z"
             }
           ],
           "description": "Markdown文档一键转换华科docx报告工具 md2report 文档\n微助教自动签到工具（支持普通/GPS/二维码签到）yatm\n签个马 签到平台框架(支持多任务超星签到+微助教Android/Web二维码回传签到+微信通知推送) sign-your-horse cloudscan-android cloudscan-web\nPolyv-cn平台网络课程自动签到脚本 polyv-fucker\n超星学习通签到工具(支持手势签到) ttzztztz\n返校宣讲（招办汇公众号）刷扫码人数 Macsed\n创高体育打卡脚本 请勿在最新创高软件使用旧的创高体育打卡脚本，已知被检测 新版过检测,仅限iOS+macOS\n智享校园免费洗澡工具 zhixiang-fucker\n适合华科校园卡的MIFARE卡复制教程 recolic\n课程表自动导出(hub到ics) MMMartt\n课程表自动导出(hub-excel到ics) MMMartt\n华科电费相关 在线查询(仅校园网) 在线查询与充值(仅校园网)\n豆瓣图书华科图书馆借阅情况查询助手\n华中大微校园-应用中心 不必使用微信打开\n新版(2023)统一身份认证登录库 HustPass2023(Python)\n军理/军事理论电子电气资源网线上作业答案自动填充脚本 gongchen618\n为华科沁苑等老旧寝室安装简易门禁 vaaandark",
@@ -930,7 +985,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T13:03:09.468Z",
+    "last_updated": "2026-08-28T14:33:45.428Z",
     "original_repository_info": {
       "archived": false,
       "id": 136359927,
