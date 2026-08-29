@@ -12,12 +12,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "华中科技大学本科毕业论文LaTeX模板 2017",
+                "homepage": null,
                 "id": 83118435,
                 "language": "TeX",
+                "license": "MIT",
                 "last_commit": "2022-04-12T03:31:16Z",
+                "open_issues": 4,
                 "owner": "skinaze",
                 "repo": "HUSTPaperTemp",
-                "stars": 334
+                "stars": 334,
+                "topics": [
+                  "hust",
+                  "latex",
+                  "paper",
+                  "template",
+                  "tex",
+                  "thesis",
+                  "undergraduate",
+                  "xelatex"
+                ]
               },
               "first_seen": "2026-08-28T14:33:45.428Z"
             },
@@ -28,12 +42,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "华科毕业论文（本科）的 typst 模板",
+                "homepage": null,
                 "id": 621688355,
                 "language": "Typst",
+                "license": "MIT",
                 "last_commit": "2025-06-16T14:12:45Z",
+                "open_issues": 7,
                 "owner": "werifu",
                 "repo": "HUST-typst-template",
-                "stars": 238
+                "stars": 238,
+                "topics": [
+                  "hust",
+                  "typst",
+                  "typst-template"
+                ]
               },
               "first_seen": "2026-08-28T14:33:45.428Z"
             },
@@ -44,12 +67,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": null,
+                "homepage": null,
                 "id": 161973746,
                 "language": "PHP",
+                "license": null,
                 "last_commit": "2021-01-15T07:42:04Z",
+                "open_issues": 0,
                 "owner": "ttzztztz",
                 "repo": "Dynamic-Web-Design-Homework",
-                "stars": 1
+                "stars": 1,
+                "topics": []
               },
               "first_seen": "2026-08-28T14:33:45.428Z"
             },
@@ -60,12 +88,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "fxxk HUST chaoxing teaching score",
+                "homepage": null,
                 "id": 510425625,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2022-07-04T16:13:01Z",
+                "open_issues": 0,
                 "owner": "xylonx",
                 "repo": "Fxxk-Hust-teachingScore",
-                "stars": 1
+                "stars": 1,
+                "topics": []
               },
               "first_seen": "2026-08-28T14:33:45.428Z"
             }
@@ -83,12 +116,23 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "HUST Homeworks(Course design / Reports / Labs / etc. )",
+                "homepage": null,
                 "id": 112580795,
                 "language": "C++",
+                "license": null,
                 "last_commit": "2019-07-15T13:18:31Z",
+                "open_issues": 0,
                 "owner": "husixu1",
                 "repo": "HUST-Homeworks",
-                "stars": 266
+                "stars": 266,
+                "topics": [
+                  "homework",
+                  "hust",
+                  "labs",
+                  "latex",
+                  "trash"
+                ]
               },
               "first_seen": "2026-08-28T14:33:45.428Z"
             },
@@ -99,12 +143,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "一个华科计算机学院的资料集合 https://yuhangchen1.github.io/HUST_OPEN_SOURCE/",
+                "homepage": "https://www.sukunahust.moe",
                 "id": 617468854,
                 "language": "Jupyter Notebook",
+                "license": "MIT",
                 "last_commit": "2026-08-12T03:11:30Z",
+                "open_issues": 0,
                 "owner": "SukunaShinmyoumaru-hust",
                 "repo": "Hust-opensource-Xuejie",
-                "stars": 645
+                "stars": 645,
+                "topics": []
               },
               "first_seen": "2026-08-28T14:33:45.428Z"
             }
@@ -122,12 +171,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Hust C programming language curriculum design 2017 summer. Using HTML GUI and websocket.",
+                "homepage": null,
                 "id": 100101420,
                 "language": "C",
+                "license": "GPL-3.0",
                 "last_commit": "2017-11-01T06:36:57Z",
+                "open_issues": 0,
                 "owner": "zxc479773533",
                 "repo": "C-curriculum-design",
-                "stars": 4
+                "stars": 4,
+                "topics": []
               },
               "first_seen": "2026-08-28T14:33:45.428Z"
             },
@@ -138,12 +192,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Hust data structure labs 2017 winter.",
+                "homepage": null,
                 "id": 110958870,
                 "language": "C",
+                "license": "LGPL-3.0",
                 "last_commit": "2019-06-19T07:28:49Z",
+                "open_issues": 1,
                 "owner": "zxc479773533",
                 "repo": "HUST-DataStructure-Labs",
-                "stars": 5
+                "stars": 5,
+                "topics": []
               },
               "first_seen": "2026-08-28T14:33:45.428Z"
             },
@@ -154,12 +213,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Hust Data structure curriculum design 2018 winter.",
+                "homepage": null,
                 "id": 121926576,
                 "language": "C++",
+                "license": "GPL-3.0",
                 "last_commit": "2019-06-19T07:29:53Z",
+                "open_issues": 0,
                 "owner": "zxc479773533",
                 "repo": "DS-curriculum-design",
-                "stars": 0
+                "stars": 0,
+                "topics": []
               },
               "first_seen": "2026-08-28T14:33:45.428Z"
             }
@@ -177,12 +241,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Learn notes of 80x86.",
+                "homepage": null,
                 "id": 126867105,
                 "language": "Assembly",
+                "license": null,
                 "last_commit": "2018-04-22T03:03:00Z",
+                "open_issues": 0,
                 "owner": "qzwlecr",
                 "repo": "80x86-asm-learning",
-                "stars": 7
+                "stars": 7,
+                "topics": []
               },
               "first_seen": "2026-08-28T14:33:45.428Z"
             },
@@ -193,12 +262,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "HUST Verilog Labs 2018 and Digital logic labs 2018",
+                "homepage": null,
                 "id": 136584400,
                 "language": "Verilog",
+                "license": "MIT",
                 "last_commit": "2018-06-27T01:27:46Z",
+                "open_issues": 0,
                 "owner": "zxc479773533",
                 "repo": "HUST-Verilog-Labs",
-                "stars": 21
+                "stars": 21,
+                "topics": []
               },
               "first_seen": "2026-08-28T14:33:45.428Z"
             },
@@ -209,12 +283,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "HUST Verilog Labs 2018 and Digital logic labs 2018",
+                "homepage": null,
                 "id": 136584400,
                 "language": "Verilog",
+                "license": "MIT",
                 "last_commit": "2018-06-27T01:27:46Z",
+                "open_issues": 0,
                 "owner": "zxc479773533",
                 "repo": "HUST-Verilog-Labs",
-                "stars": 21
+                "stars": 21,
+                "topics": []
               },
               "first_seen": "2026-08-28T14:33:45.428Z"
             },
@@ -225,12 +304,19 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "华中科技大学2020级计算机系统基础",
+                "homepage": null,
                 "id": 612914859,
                 "language": "C",
+                "license": "MIT",
                 "last_commit": "2023-03-12T11:40:38Z",
+                "open_issues": 0,
                 "owner": "Oliver-242",
                 "repo": "HUST-Foundation-of-Computer-System",
-                "stars": 18
+                "stars": 18,
+                "topics": [
+                  "assembly-language"
+                ]
               },
               "first_seen": "2026-08-28T14:33:45.428Z"
             },
@@ -241,12 +327,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 627341150,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2023-05-19T02:17:03Z",
+                "open_issues": 0,
                 "owner": "uniqueFranky",
                 "repo": "BinaryClassifierBasedOnAdapitiveBoost",
-                "stars": 1
+                "stars": 1,
+                "topics": []
               },
               "first_seen": "2026-08-28T14:33:45.428Z"
             },
@@ -257,12 +348,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 684557097,
                 "language": null,
+                "license": null,
                 "last_commit": "2023-09-03T12:06:03Z",
+                "open_issues": 0,
                 "owner": "uniqueFranky",
                 "repo": "cpu21-riscv",
-                "stars": 1
+                "stars": 1,
+                "topics": []
               },
               "first_seen": "2026-08-28T14:33:45.428Z"
             },
@@ -273,12 +369,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 578913001,
                 "language": "Go",
+                "license": null,
                 "last_commit": "2023-03-05T02:54:29Z",
+                "open_issues": 0,
                 "owner": "uniqueFranky",
                 "repo": "gobang",
-                "stars": 3
+                "stars": 3,
+                "topics": []
               },
               "first_seen": "2026-08-28T14:33:45.428Z"
             },
@@ -289,12 +390,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 621326956,
                 "language": "Java",
+                "license": null,
                 "last_commit": "2023-03-30T12:49:49Z",
+                "open_issues": 0,
                 "owner": "uniqueFranky",
                 "repo": "FilmRelation",
-                "stars": 0
+                "stars": 0,
+                "topics": []
               },
               "first_seen": "2026-08-28T14:33:45.428Z"
             }
@@ -312,12 +418,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "华中科技大学2020级嵌入式系统",
+                "homepage": null,
                 "id": 563875576,
                 "language": "C",
+                "license": null,
                 "last_commit": "2022-12-01T01:40:03Z",
+                "open_issues": 0,
                 "owner": "Oliver-242",
                 "repo": "HUST-Embedded-System",
-                "stars": 19
+                "stars": 19,
+                "topics": [
+                  "linux",
+                  "orangepi"
+                ]
               },
               "first_seen": "2026-08-28T14:33:45.428Z"
             },
@@ -328,12 +442,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Hust OS labs, including TinyOS labs specially for IOT in 2018 Spring [Get 99/100]",
+                "homepage": null,
                 "id": 126944100,
                 "language": "C",
+                "license": "GPL-3.0",
                 "last_commit": "2018-05-24T02:13:40Z",
+                "open_issues": 0,
                 "owner": "zxc479773533",
                 "repo": "HUST-OperatingSystem-Labs",
-                "stars": 11
+                "stars": 11,
+                "topics": []
               },
               "first_seen": "2026-08-28T14:33:45.428Z"
             },
@@ -344,12 +463,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Ticket booting system using HTML/CSS + JS + PHP [Get 99/100]",
+                "homepage": null,
                 "id": 134032305,
                 "language": "PHP",
+                "license": "GPL-3.0",
                 "last_commit": "2019-06-19T07:15:53Z",
+                "open_issues": 0,
                 "owner": "zxc479773533",
                 "repo": "HUST-Database-Design",
-                "stars": 4
+                "stars": 4,
+                "topics": []
               },
               "first_seen": "2026-08-28T14:33:45.428Z"
             },
@@ -360,12 +484,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "华中科技大学2020级编译原理educoder实验",
+                "homepage": null,
                 "id": 631416846,
                 "language": "C++",
+                "license": "MIT",
                 "last_commit": "2023-06-05T02:05:07Z",
+                "open_issues": 0,
                 "owner": "Oliver-242",
                 "repo": "HUST-Compiler-Principles-Experiment",
-                "stars": 74
+                "stars": 74,
+                "topics": [
+                  "c",
+                  "flex",
+                  "shell"
+                ]
               },
               "first_seen": "2026-08-28T14:33:45.428Z"
             },
@@ -376,12 +509,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "华中科技大学2023春大数据管理",
+                "homepage": null,
                 "id": 631498101,
                 "language": null,
+                "license": "MIT",
                 "last_commit": "2023-06-14T06:17:11Z",
+                "open_issues": 1,
                 "owner": "Elubrazione",
                 "repo": "bdm_labs_hust",
-                "stars": 14
+                "stars": 14,
+                "topics": []
               },
               "first_seen": "2026-08-28T14:33:45.428Z"
             },
@@ -392,12 +530,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "华中科技大学2023春计算机视觉",
+                "homepage": null,
                 "id": 615314124,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2023-11-27T06:02:43Z",
+                "open_issues": 0,
                 "owner": "Elubrazione",
                 "repo": "cv_labs_hust",
-                "stars": 7
+                "stars": 7,
+                "topics": []
               },
               "first_seen": "2026-08-28T14:33:45.428Z"
             },
@@ -408,12 +551,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 768537038,
                 "language": "C",
+                "license": "MIT",
                 "last_commit": "2024-03-07T10:07:13Z",
+                "open_issues": 0,
                 "owner": "nothiny",
                 "repo": "hust_rvfpga",
-                "stars": 1
+                "stars": 1,
+                "topics": []
               },
               "first_seen": "2026-08-28T14:33:45.428Z"
             },
@@ -424,12 +572,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 810786231,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2024-12-30T07:40:12Z",
+                "open_issues": 0,
                 "owner": "uniqueFranky",
                 "repo": "ImageEncryptor",
-                "stars": 3
+                "stars": 3,
+                "topics": []
               },
               "first_seen": "2026-08-28T14:33:45.428Z"
             }
@@ -447,12 +600,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "HUST experiments",
+                "homepage": null,
                 "id": 218916291,
                 "language": "C",
+                "license": null,
                 "last_commit": "2020-01-06T17:03:13Z",
+                "open_issues": 0,
                 "owner": "ladlod",
                 "repo": "hust-csug",
-                "stars": 1
+                "stars": 1,
+                "topics": []
               },
               "first_seen": "2026-08-28T14:33:45.428Z"
             },
@@ -463,12 +621,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "华中科技大学2023秋图神经网络",
+                "homepage": null,
                 "id": 718392244,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2023-12-04T15:42:27Z",
+                "open_issues": 0,
                 "owner": "Elubrazione",
                 "repo": "gnn_lab_hust",
-                "stars": 7
+                "stars": 7,
+                "topics": []
               },
               "first_seen": "2026-08-28T14:33:45.428Z"
             },
@@ -479,12 +642,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "HUST的朋友们麻烦 star | fork | follow 三连好么",
+                "homepage": null,
                 "id": 165082637,
                 "language": "C",
+                "license": null,
                 "last_commit": "2020-06-01T09:52:42Z",
+                "open_issues": 0,
                 "owner": "niuyinmei",
                 "repo": "ICS2018",
-                "stars": 16
+                "stars": 16,
+                "topics": [
+                  "hust-pa",
+                  "nemu"
+                ]
               },
               "first_seen": "2026-08-28T14:33:45.428Z"
             }
@@ -502,12 +673,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "👾🐍 A opensource game inspired by Snake, written in pure C with SDL",
+                "homepage": null,
                 "id": 242162049,
                 "language": "C",
+                "license": "GPL-3.0",
                 "last_commit": "2022-01-17T07:50:07Z",
+                "open_issues": 16,
                 "owner": "yujqiao",
                 "repo": "DungeonRush",
-                "stars": 2170
+                "stars": 2170,
+                "topics": [
+                  "c",
+                  "game",
+                  "sdl2"
+                ]
               },
               "first_seen": "2026-08-28T14:33:45.428Z"
             }
@@ -525,12 +705,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": null,
+                "homepage": null,
                 "id": 207293324,
                 "language": "Assembly",
+                "license": null,
                 "last_commit": "2021-01-15T07:27:51Z",
+                "open_issues": 0,
                 "owner": "ttzztztz",
                 "repo": "80x86_assembly-design",
-                "stars": 0
+                "stars": 0,
+                "topics": []
               },
               "first_seen": "2026-08-28T14:33:45.428Z"
             },
@@ -541,12 +726,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Data structure course design, Command Line Interface Sudoku Game, (never GUI) based on C++/17",
+                "homepage": null,
                 "id": 221955160,
                 "language": "C++",
+                "license": null,
                 "last_commit": "2019-12-04T07:22:40Z",
+                "open_issues": 0,
                 "owner": "ttzztztz",
                 "repo": "SudokuCLI",
-                "stars": 0
+                "stars": 0,
+                "topics": []
               },
               "first_seen": "2026-08-28T14:33:45.428Z"
             },
@@ -557,12 +747,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "人机交互课设2020秋",
+                "homepage": null,
                 "id": 342122315,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2021-02-25T04:40:25Z",
+                "open_issues": 0,
                 "owner": "MacsedProtoss",
                 "repo": "HMI_Course_Design",
-                "stars": 0
+                "stars": 0,
+                "topics": []
               },
               "first_seen": "2026-08-28T14:33:45.428Z"
             }
@@ -580,12 +775,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "This is a repo for DIP course's homeworks.",
+                "homepage": null,
                 "id": 316631505,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2021-01-15T07:30:04Z",
+                "open_issues": 0,
                 "owner": "ttzztztz",
                 "repo": "Digital-Image-Process-Course",
-                "stars": 0
+                "stars": 0,
+                "topics": []
               },
               "first_seen": "2026-08-28T14:33:45.428Z"
             },
@@ -596,12 +796,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Compiler Course Design with junk code inside.",
+                "homepage": null,
                 "id": 300554918,
                 "language": "C++",
+                "license": null,
                 "last_commit": "2020-11-23T02:33:09Z",
+                "open_issues": 0,
                 "owner": "ttzztztz",
                 "repo": "Compiler-Course-Design",
-                "stars": 2
+                "stars": 2,
+                "topics": []
               },
               "first_seen": "2026-08-28T14:33:45.428Z"
             },
@@ -612,12 +817,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Computer Composition Course Homework",
+                "homepage": null,
                 "id": 313839175,
                 "language": null,
+                "license": null,
                 "last_commit": "2021-01-15T07:38:54Z",
+                "open_issues": 0,
                 "owner": "ttzztztz",
                 "repo": "Computer-Composition-Course-Homework",
-                "stars": 0
+                "stars": 0,
+                "topics": []
               },
               "first_seen": "2026-08-28T14:33:45.428Z"
             },
@@ -628,12 +838,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "SB Course, Fuck homework, Junk codes",
+                "homepage": null,
                 "id": 302298355,
                 "language": "TypeScript",
+                "license": null,
                 "last_commit": "2021-01-15T07:32:28Z",
+                "open_issues": 0,
                 "owner": "ttzztztz",
                 "repo": "Software-Structure-Homework",
-                "stars": 0
+                "stars": 0,
+                "topics": []
               },
               "first_seen": "2026-08-28T14:33:45.428Z"
             },
@@ -644,12 +859,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "vr大作业",
+                "homepage": null,
                 "id": 376045378,
                 "language": "C#",
+                "license": null,
                 "last_commit": "2021-06-30T09:17:15Z",
+                "open_issues": 0,
                 "owner": "ttzztztz",
                 "repo": "sse-vr",
-                "stars": 2
+                "stars": 2,
+                "topics": []
               },
               "first_seen": "2026-08-28T14:33:45.428Z"
             },
@@ -660,12 +880,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "云计算",
+                "homepage": null,
                 "id": 361585213,
                 "language": "Shell",
+                "license": null,
                 "last_commit": "2021-06-09T12:55:42Z",
+                "open_issues": 0,
                 "owner": "ttzztztz",
                 "repo": "sse-cloud-computing",
-                "stars": 0
+                "stars": 0,
+                "topics": []
               },
               "first_seen": "2026-08-28T14:33:45.428Z"
             },
@@ -676,12 +901,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "计算机网络",
+                "homepage": null,
                 "id": 369687602,
                 "language": "C",
+                "license": null,
                 "last_commit": "2021-06-09T11:40:26Z",
+                "open_issues": 0,
                 "owner": "ttzztztz",
                 "repo": "sse-computer-network",
-                "stars": 0
+                "stars": 0,
+                "topics": []
               },
               "first_seen": "2026-08-28T14:33:45.428Z"
             },
@@ -692,12 +922,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "ERP与供应链",
+                "homepage": null,
                 "id": 370675006,
                 "language": null,
+                "license": null,
                 "last_commit": "2021-06-03T12:11:07Z",
+                "open_issues": 0,
                 "owner": "ttzztztz",
                 "repo": "sse-erp",
-                "stars": 1
+                "stars": 1,
+                "topics": []
               },
               "first_seen": "2026-08-28T14:33:45.428Z"
             },
@@ -708,12 +943,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "软件过程管理",
+                "homepage": null,
                 "id": 357187247,
                 "language": null,
+                "license": null,
                 "last_commit": "2021-04-28T05:48:47Z",
+                "open_issues": 0,
                 "owner": "ttzztztz",
                 "repo": "sse-procedure",
-                "stars": 0
+                "stars": 0,
+                "topics": []
               },
               "first_seen": "2026-08-28T14:33:45.428Z"
             },
@@ -724,12 +964,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "软件文档写作",
+                "homepage": null,
                 "id": 353901741,
                 "language": null,
+                "license": null,
                 "last_commit": "2021-04-03T08:05:02Z",
+                "open_issues": 0,
                 "owner": "ttzztztz",
                 "repo": "sse-document",
-                "stars": 0
+                "stars": 0,
+                "topics": []
               },
               "first_seen": "2026-08-28T14:33:45.428Z"
             },
@@ -740,12 +985,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Software Test course homework",
+                "homepage": null,
                 "id": 348586008,
                 "language": "TypeScript",
+                "license": null,
                 "last_commit": "2021-04-02T11:47:42Z",
+                "open_issues": 0,
                 "owner": "ttzztztz",
                 "repo": "sse-test",
-                "stars": 0
+                "stars": 0,
+                "topics": []
               },
               "first_seen": "2026-08-28T14:33:45.428Z"
             },
@@ -756,12 +1006,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Modern BBS written with Vue Suite & Prisma",
+                "homepage": "https://bbs.hustunique.com",
                 "id": 164427214,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2022-12-22T09:53:08Z",
+                "open_issues": 26,
                 "owner": "UniqueStudio",
                 "repo": "UniqueBBS",
-                "stars": 16
+                "stars": 16,
+                "topics": []
               },
               "first_seen": "2026-08-28T14:33:45.428Z"
             }
@@ -779,12 +1034,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "华中科技大学网络空间安全学院课程设计及课程实验合集(Collection of Course Projects and Experiments in the School of Cyber Science and Engineering at HUST)",
+                "homepage": null,
                 "id": 504862381,
                 "language": "C",
+                "license": null,
                 "last_commit": "2023-09-14T00:27:50Z",
+                "open_issues": 0,
                 "owner": "zichuanxu",
                 "repo": "HUST-CSE-Experiments",
-                "stars": 388
+                "stars": 388,
+                "topics": []
               },
               "first_seen": "2026-08-28T14:33:45.428Z"
             }
@@ -802,12 +1062,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "华中科技大学 网络空间安全学院 2020级 C语言实验课 报告和源码",
+                "homepage": null,
                 "id": 308847065,
                 "language": "C",
+                "license": "MIT",
                 "last_commit": "2021-11-02T04:55:48Z",
+                "open_issues": 0,
                 "owner": "jingfelix",
                 "repo": "HUST-C-Programming-language",
-                "stars": 14
+                "stars": 14,
+                "topics": []
               },
               "first_seen": "2026-08-28T14:33:45.428Z"
             }
@@ -825,12 +1090,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "华中科技大学 网络空间安全学院 2020级 网络空间安全综合实践",
+                "homepage": null,
                 "id": 410321495,
                 "language": null,
+                "license": "MIT",
                 "last_commit": "2022-06-08T08:58:32Z",
+                "open_issues": 0,
                 "owner": "jingfelix",
                 "repo": "HUST-CSE-Pass-level-1",
-                "stars": 27
+                "stars": 27,
+                "topics": []
               },
               "first_seen": "2026-08-28T14:33:45.428Z"
             }
@@ -854,12 +1124,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "chaoxing-pv-fucker",
+                "homepage": null,
                 "id": 346701681,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2021-03-12T01:41:16Z",
+                "open_issues": 0,
                 "owner": "ttzztztz",
                 "repo": "chaoxing-pv-fucker",
-                "stars": 0
+                "stars": 0,
+                "topics": []
               },
               "first_seen": "2026-08-28T14:33:45.428Z"
             },
@@ -870,12 +1145,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "cxmooc-tool作者停更且关闭服务器，故这个能用来解决一些简单的题目（比如毛概）",
+                "homepage": null,
                 "id": 257017755,
                 "language": "Swift",
+                "license": "MIT",
                 "last_commit": "2020-04-19T16:49:04Z",
+                "open_issues": 0,
                 "owner": "MacsedProtoss",
                 "repo": "CxmoocAnswerBrowser",
-                "stars": 1
+                "stars": 1,
+                "topics": []
               },
               "first_seen": "2026-08-28T14:33:45.428Z"
             },
@@ -886,12 +1166,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Yet Another Moso-Teach Fucker",
+                "homepage": null,
                 "id": 338519430,
                 "language": "JavaScript",
+                "license": "GPL-3.0",
                 "last_commit": "2021-02-13T07:20:49Z",
+                "open_issues": 0,
                 "owner": "CGSportFucker",
                 "repo": "YAMT-Fucker",
-                "stars": 1
+                "stars": 1,
+                "topics": []
               },
               "first_seen": "2026-08-28T14:33:45.428Z"
             },
@@ -902,12 +1187,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "英语视听说刷在线时长",
+                "homepage": null,
                 "id": 189589406,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2021-06-02T02:59:59Z",
+                "open_issues": 1,
                 "owner": "MacsedProtoss",
                 "repo": "NewHorizon-TimeFaker",
-                "stars": 3
+                "stars": 3,
+                "topics": []
               },
               "first_seen": "2026-08-28T14:33:45.428Z"
             },
@@ -918,12 +1208,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 189739954,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2019-06-01T14:20:08Z",
+                "open_issues": 0,
                 "owner": "MacsedProtoss",
                 "repo": "unipus",
-                "stars": 0
+                "stars": 0,
+                "topics": []
               },
               "first_seen": "2026-08-28T14:33:45.428Z"
             },
@@ -934,12 +1229,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "可扩展的 802.1x 客户端，带有锐捷 v3 (v4) 算法插件支持",
+                "homepage": null,
                 "id": 70596736,
                 "language": "C",
+                "license": "GPL-3.0",
                 "last_commit": "2023-09-21T14:38:26Z",
+                "open_issues": 41,
                 "owner": "updateing",
                 "repo": "minieap",
-                "stars": 564
+                "stars": 565,
+                "topics": []
               },
               "first_seen": "2026-08-28T14:33:45.428Z"
             },
@@ -950,12 +1250,19 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "login scripts for HUST_WIRELESS",
+                "homepage": null,
                 "id": 180378096,
                 "language": "Python",
+                "license": "GPL-3.0",
                 "last_commit": "2021-08-10T06:13:18Z",
+                "open_issues": 0,
                 "owner": "Cra1gTucker",
                 "repo": "hust-login",
-                "stars": 13
+                "stars": 13,
+                "topics": [
+                  "hust"
+                ]
               },
               "first_seen": "2026-08-28T14:33:45.428Z"
             },
@@ -966,12 +1273,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "华中科技大学GPA计算, 包括华科, 标准, 北大算法",
+                "homepage": null,
                 "id": 200170416,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2020-03-12T13:46:59Z",
+                "open_issues": 2,
                 "owner": "HUSTERGS",
                 "repo": "HUST-GPA",
-                "stars": 13
+                "stars": 13,
+                "topics": []
               },
               "first_seen": "2026-08-28T14:33:45.428Z"
             }
@@ -985,15 +1297,23 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T14:33:45.428Z",
+    "last_updated": "2026-08-29T04:38:27.094Z",
     "original_repository_info": {
       "archived": false,
+      "description": "HUST experiments, reports, and useful tools.",
+      "homepage": null,
       "id": 136359927,
       "language": "Shell",
+      "license": "CC0-1.0",
       "last_commit": "2025-06-30T00:32:34Z",
+      "open_issues": 0,
       "owner": "recolic",
       "repo": "awesome-hust",
-      "stars": 739
+      "stars": 739,
+      "topics": [
+        "awesome-list",
+        "hust"
+      ]
     },
     "original_repository_sha": "71292a6daa0ecaa66bba687403e9a092edcaef05",
     "enhanced_repository": "enhansome/enhansome-hust",
