@@ -148,7 +148,7 @@
                 "id": 617468854,
                 "language": "Jupyter Notebook",
                 "license": "MIT",
-                "last_commit": "2026-08-12T03:11:30Z",
+                "last_commit": "2026-08-29T14:14:03Z",
                 "open_issues": 0,
                 "owner": "SukunaShinmyoumaru-hust",
                 "repo": "Hust-opensource-Xuejie",
@@ -1297,7 +1297,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T09:20:40.390Z",
+    "last_updated": "2026-08-30T08:30:52.634Z",
     "original_repository_info": {
       "archived": false,
       "description": "HUST experiments, reports, and useful tools.",
