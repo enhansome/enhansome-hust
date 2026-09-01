@@ -56,9 +56,9 @@ HustLaTeX模板库 [Github](https://github.com/hust-latex) [Website](https://hus
 
 > 很多贡献者毕业之后会把全部资料整合为一个仓库, 因此不会再逐项列出. 请不要忘记查看.
 
-计科大多数课程的代码/报告 [husixu2](https://github.com/husixu1/HUST-Homeworks) ⚠️ Archived [sabertazimi](https://github.com/sabertazimi/hust-lab) ⭐ 31 | 🐛 0 | 🌐 C | 📅 2026-08-05 [WhatAboutMyStar](https://github.com/WhatAboutMyStar/HUSTDoubleDegree) ⭐ 71 | 🐛 0 | 🌐 C++ | 📅 2020-08-16 [HUSTERS](https://github.com/HUSTERGS/HUSTCS) ⭐ 163 | 🐛 0 | 🌐 C++ | 📅 2021-04-27 [AlexFanw](https://github.com/AlexFanw/HUSTER-CS) ⭐ 1,385 | 🐛 2 | 🌐 C | 📅 2023-12-13 [winderica](https://github.com/winderica/GoodbyeHUST) ⭐ 5 | 🐛 0 | 📅 2021-09-12 [recolic](https://git.recolic.net/recolic-hust/hust-homeworks-bundle)([recolic-mirror](https://github.com/recolic/hust-homeworks-bundle) ⭐ 1 | 🐛 0 | 🌐 C | 📅 2022-04-12) [Nuyoahwjl](https://github.com/Nuyoahwjl/HUST-CS) ⭐ 121 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2026-06-29 [asterich](https://github.com/asterich/hust-homework-and-labs) ⭐ 0 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2025-07-01
+计科大多数课程的代码/报告 [husixu2](https://github.com/husixu1/HUST-Homeworks) ⚠️ Archived [sabertazimi](https://github.com/sabertazimi/hust-lab) ⭐ 31 | 🐛 0 | 🌐 C | 📅 2026-08-05 [WhatAboutMyStar](https://github.com/WhatAboutMyStar/HUSTDoubleDegree) ⭐ 71 | 🐛 0 | 🌐 C++ | 📅 2020-08-16 [HUSTERS](https://github.com/HUSTERGS/HUSTCS) ⭐ 163 | 🐛 0 | 🌐 C++ | 📅 2021-04-27 [AlexFanw](https://github.com/AlexFanw/HUSTER-CS) ⭐ 1,385 | 🐛 2 | 🌐 C | 📅 2023-12-13 [winderica](https://github.com/winderica/GoodbyeHUST) ⭐ 5 | 🐛 0 | 📅 2021-09-12 [recolic](https://git.recolic.net/recolic-hust/hust-homeworks-bundle)([recolic-mirror](https://github.com/recolic/hust-homeworks-bundle) ⭐ 1 | 🐛 0 | 🌐 C | 📅 2022-04-12) [Nuyoahwjl](https://github.com/Nuyoahwjl/HUST-CS) ⭐ 122 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2026-06-29 [asterich](https://github.com/asterich/hust-homework-and-labs) ⭐ 0 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2025-07-01
 
-Sukuna的个人学解:[Sukuna](https://github.com/SukunaShinmyoumaru-hust/Hust-opensource-Xuejie) ⭐ 648 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2026-08-29
+Sukuna的个人学解:[Sukuna](https://github.com/SukunaShinmyoumaru-hust/Hust-opensource-Xuejie) ⭐ 649 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2026-08-29
 
 ### CS 大一
 
@@ -96,7 +96,7 @@ verilog实验 [zxc479773533](https://github.com/zxc479773533/HUST-Verilog-Labs) 
 
 操作系统 [zxc479773533](https://github.com/zxc479773533/HUST-OperatingSystem-Labs) ⭐ 11 | 🐛 0 | 🌐 C | 📅 2018-05-24 [ladlod](https://github.com/ladlod/hust_cs_ug/tree/master/linux_proc) ⭐ 1 | 🐛 0 | 🌐 C | 📅 2020-01-06 [olivercai(pke2022)](https://github.com/Oliver-242/HUST-Operating-System-PKE) ⭐ 80 | 🐛 0 | 📅 2023-03-14 [uniqueFranky](https://github.com/uniqueFranky/riscv-pke) ⭐ 5 | 🐛 0 | 🌐 C | 📅 2024-04-07
 
-数据库实验 [zxc479773533](https://github.com/zxc479773533/HUST-Database-Design) ⭐ 4 | 🐛 0 | 🌐 PHP | 📅 2019-06-19 [ladlod(java)](https://github.com/ladlod/hust_cs_ug/tree/master/database) ⭐ 1 | 🐛 0 | 🌐 C | 📅 2020-01-06 [olivercai(opengauss2022)](https://github.com/Oliver-242/HUST-database-opengauss) ⭐ 48 | 🐛 0 | 🌐 C++ | 📅 2023-03-14
+数据库实验 [zxc479773533](https://github.com/zxc479773533/HUST-Database-Design) ⭐ 4 | 🐛 0 | 🌐 PHP | 📅 2019-06-19 [ladlod(java)](https://github.com/ladlod/hust_cs_ug/tree/master/database) ⭐ 1 | 🐛 0 | 🌐 C | 📅 2020-01-06 [olivercai(opengauss2022)](https://github.com/Oliver-242/HUST-database-opengauss) ⭐ 49 | 🐛 0 | 🌐 C++ | 📅 2023-03-14
 
 编译原理实验 [olivercai\_2023](https://github.com/Oliver-242/HUST-Compiler-Principles-Experiment) ⭐ 74 | 🐛 0 | 🌐 C++ | 📅 2023-06-05
 
@@ -122,7 +122,7 @@ verilog实验 [zxc479773533](https://github.com/zxc479773533/HUST-Verilog-Labs) 
 
 ### SE 大一
 
-C语言课设 聪明的小蛇 [rapiz](https://github.com/Rapiz1/DungeonRush) ⭐ 2,170 | 🐛 16 | 🌐 C | 📅 2022-01-17
+C语言课设 聪明的小蛇 [rapiz](https://github.com/Rapiz1/DungeonRush) ⭐ 2,171 | 🐛 16 | 🌐 C | 📅 2022-01-17
 
 ### SE 大二
 
@@ -182,7 +182,7 @@ C语言程序设计实验 [jingfelix-2020](https://github.com/jingfelix/HUST-C-P
 
 Markdown文档一键转换华科docx报告工具 [md2report](https://github.com/woolen-sheep/md2report) ⭐ 435 | 🐛 2 | 🌐 Python | 📅 2023-01-14 [文档](https://woolen-sheep.github.io/md2report/)
 
-微助教自动签到工具（支持普通/GPS/二维码签到）[yatm](https://github.com/ManiaciaChao/yatm) ⭐ 142 | 🐛 4 | 🌐 TypeScript | 📅 2025-03-13
+微助教自动签到工具（支持普通/GPS/二维码签到）[yatm](https://github.com/ManiaciaChao/yatm) ⭐ 143 | 🐛 4 | 🌐 TypeScript | 📅 2025-03-13
 
 签个马 签到平台框架(支持多任务超星签到+微助教Android/Web二维码回传签到+微信通知推送) [sign-your-horse](https://github.com/naivekun/sign-your-horse) ⭐ 42 | 🐛 2 | 🌐 Go | 📅 2021-11-20 [cloudscan-android](https://github.com/naivekun/cloudscan-android) ⭐ 1 | 🐛 0 | 🌐 Java | 📅 2020-11-10 [cloudscan-web](https://github.com/EarthCompass/CloudScan-WEB) ⭐ 0 | 🐛 1 | 🌐 JavaScript | 📅 2021-10-15
 
@@ -261,4 +261,4 @@ Vivado Wrapper For Linux CommandLine [vivado-wrapper](https://github.com/recolic
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-31._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-01._
