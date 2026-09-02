@@ -152,7 +152,7 @@
                 "open_issues": 0,
                 "owner": "SukunaShinmyoumaru-hust",
                 "repo": "Hust-opensource-Xuejie",
-                "stars": 649,
+                "stars": 651,
                 "topics": []
               },
               "first_seen": "2026-08-28T14:33:45.428Z"
@@ -1297,7 +1297,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-01T07:57:57.774Z",
+    "last_updated": "2026-09-02T07:18:07.613Z",
     "original_repository_info": {
       "archived": false,
       "description": "HUST experiments, reports, and useful tools.",
@@ -1309,7 +1309,7 @@
       "open_issues": 0,
       "owner": "recolic",
       "repo": "awesome-hust",
-      "stars": 739,
+      "stars": 740,
       "topics": [
         "awesome-list",
         "hust"
