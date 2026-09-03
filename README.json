@@ -125,7 +125,7 @@
                 "open_issues": 0,
                 "owner": "husixu1",
                 "repo": "HUST-Homeworks",
-                "stars": 266,
+                "stars": 265,
                 "topics": [
                   "homework",
                   "hust",
@@ -682,7 +682,7 @@
                 "open_issues": 16,
                 "owner": "yujqiao",
                 "repo": "DungeonRush",
-                "stars": 2171,
+                "stars": 2172,
                 "topics": [
                   "c",
                   "game",
@@ -1235,7 +1235,7 @@
                 "language": "C",
                 "license": "GPL-3.0",
                 "last_commit": "2023-09-21T14:38:26Z",
-                "open_issues": 41,
+                "open_issues": 42,
                 "owner": "updateing",
                 "repo": "minieap",
                 "stars": 565,
@@ -1297,7 +1297,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-02T07:18:07.613Z",
+    "last_updated": "2026-09-03T07:21:07.540Z",
     "original_repository_info": {
       "archived": false,
       "description": "HUST experiments, reports, and useful tools.",
