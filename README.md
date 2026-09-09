@@ -56,9 +56,9 @@ HustLaTeX模板库 [Github](https://github.com/hust-latex) [Website](https://hus
 
 > 很多贡献者毕业之后会把全部资料整合为一个仓库, 因此不会再逐项列出. 请不要忘记查看.
 
-计科大多数课程的代码/报告 [husixu2](https://github.com/husixu1/HUST-Homeworks) ⚠️ Archived [sabertazimi](https://github.com/sabertazimi/hust-lab) ⭐ 31 | 🐛 0 | 🌐 C | 📅 2026-08-05 [WhatAboutMyStar](https://github.com/WhatAboutMyStar/HUSTDoubleDegree) ⭐ 71 | 🐛 0 | 🌐 C++ | 📅 2020-08-16 [HUSTERS](https://github.com/HUSTERGS/HUSTCS) ⭐ 164 | 🐛 0 | 🌐 C++ | 📅 2021-04-27 [AlexFanw](https://github.com/AlexFanw/HUSTER-CS) ⭐ 1,388 | 🐛 2 | 🌐 C | 📅 2023-12-13 [winderica](https://github.com/winderica/GoodbyeHUST) ⭐ 5 | 🐛 0 | 📅 2021-09-12 [recolic](https://git.recolic.net/recolic-hust/hust-homeworks-bundle)([recolic-mirror](https://github.com/recolic/hust-homeworks-bundle) ⭐ 1 | 🐛 0 | 🌐 C | 📅 2022-04-12) [Nuyoahwjl](https://github.com/Nuyoahwjl/HUST-CS) ⭐ 132 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2026-06-29 [asterich](https://github.com/asterich/hust-homework-and-labs) ⭐ 0 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2025-07-01
+计科大多数课程的代码/报告 [husixu2](https://github.com/husixu1/HUST-Homeworks) ⚠️ Archived [sabertazimi](https://github.com/sabertazimi/hust-lab) ⭐ 31 | 🐛 0 | 🌐 C | 📅 2026-08-05 [WhatAboutMyStar](https://github.com/WhatAboutMyStar/HUSTDoubleDegree) ⭐ 72 | 🐛 0 | 🌐 C++ | 📅 2020-08-16 [HUSTERS](https://github.com/HUSTERGS/HUSTCS) ⭐ 164 | 🐛 0 | 🌐 C++ | 📅 2021-04-27 [AlexFanw](https://github.com/AlexFanw/HUSTER-CS) ⭐ 1,390 | 🐛 2 | 🌐 C | 📅 2023-12-13 [winderica](https://github.com/winderica/GoodbyeHUST) ⭐ 5 | 🐛 0 | 📅 2021-09-12 [recolic](https://git.recolic.net/recolic-hust/hust-homeworks-bundle)([recolic-mirror](https://github.com/recolic/hust-homeworks-bundle) ⭐ 1 | 🐛 0 | 🌐 C | 📅 2022-04-12) [Nuyoahwjl](https://github.com/Nuyoahwjl/HUST-CS) ⭐ 133 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2026-06-29 [asterich](https://github.com/asterich/hust-homework-and-labs) ⭐ 0 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2025-07-01
 
-Sukuna的个人学解:[Sukuna](https://github.com/SukunaShinmyoumaru-hust/Hust-opensource-Xuejie) ⭐ 655 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2026-08-29
+Sukuna的个人学解:[Sukuna](https://github.com/SukunaShinmyoumaru-hust/Hust-opensource-Xuejie) ⭐ 656 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2026-08-29
 
 ### CS 大一
 
@@ -98,7 +98,7 @@ verilog实验 [zxc479773533](https://github.com/zxc479773533/HUST-Verilog-Labs) 
 
 数据库实验 [zxc479773533](https://github.com/zxc479773533/HUST-Database-Design) ⭐ 4 | 🐛 0 | 🌐 PHP | 📅 2019-06-19 [ladlod(java)](https://github.com/ladlod/hust_cs_ug/tree/master/database) ⭐ 1 | 🐛 0 | 🌐 C | 📅 2020-01-06 [olivercai(opengauss2022)](https://github.com/Oliver-242/HUST-database-opengauss) ⭐ 49 | 🐛 0 | 🌐 C++ | 📅 2023-03-14
 
-编译原理实验 [olivercai\_2023](https://github.com/Oliver-242/HUST-Compiler-Principles-Experiment) ⭐ 74 | 🐛 0 | 🌐 C++ | 📅 2023-06-05
+编译原理实验 [olivercai\_2023](https://github.com/Oliver-242/HUST-Compiler-Principles-Experiment) ⭐ 73 | 🐛 0 | 🌐 C++ | 📅 2023-06-05
 
 大数据管理 [tung](https://github.com/Elubrazione/bdm_labs_hust) ⭐ 14 | 🐛 1 | 📅 2023-06-14
 
@@ -214,7 +214,7 @@ Polyv-cn平台网络课程自动签到脚本 [polyv-fucker](https://github.com/t
 
 英语视听说book2秒速做题 [Macsed](https://github.com/MacsedProtoss/unipus) ⭐ 0 | 🐛 0 | 🌐 JavaScript | 📅 2019-06-01
 
-开源的有线校园网认证工具 [minieap](https://github.com/updateing/minieap) ⭐ 566 | 🐛 42 | 🌐 C | 📅 2023-09-21 [mentohust(ArchWiki)](https://wiki.archlinux.org/index.php/MentoHUST_%28%E7%AE%80%E4%BD%93%E4%B8%AD%E6%96%87%29)
+开源的有线校园网认证工具 [minieap](https://github.com/updateing/minieap) ⭐ 565 | 🐛 42 | 🌐 C | 📅 2023-09-21 [mentohust(ArchWiki)](https://wiki.archlinux.org/index.php/MentoHUST_%28%E7%AE%80%E4%BD%93%E4%B8%AD%E6%96%87%29)
 
 开源的无线校园网认证工具 [hust-login(with RSA support, only python script usable)](https://github.com/Cra1gTucker/hust-login) ⭐ 13 | 🐛 0 | 🌐 Python | 📅 2021-08-10 [hust\_wireless.sh-用于低性能设备的精简版(密码未加密，不推荐)](https://github.com/recolic/awesome-hust/blob/master/res/hust_wireless.sh) ⭐ 741 | 🐛 0 | 🌐 Shell | 📅 2025-06-30 [HUST-login(bash script单文件版，支持RSA加密)](https://github.com/185264646/HUST-login) ⭐ 4 | 🐛 0 | 🌐 Shell | 📅 2024-02-20 [hust-network-login-esp （适合不能刷固件的路由器使用，支持 RSA 加密）](https://github.com/vaaandark/hust-network-login-esp) ⭐ 8 | 🐛 0 | 🌐 C++ | 📅 2023-05-25
 
@@ -245,7 +245,7 @@ Vivado Wrapper For Linux CommandLine [vivado-wrapper](https://github.com/recolic
 
 > 放置对华科学生有**针对性**帮助的资料或其他材料。
 
-华中科技大学人工智能与自动化学院课程资料：[AIAHUB](https://github.com/AIAHUB/HUST-AIA-Courses-Resource/) ⭐ 246 | 🐛 0 | 🌐 CSS | 📅 2023-04-22 （包含部分深度学习及相关基础资料）
+华中科技大学人工智能与自动化学院课程资料：[AIAHUB](https://github.com/AIAHUB/HUST-AIA-Courses-Resource/) ⭐ 247 | 🐛 0 | 🌐 CSS | 📅 2023-04-22 （包含部分深度学习及相关基础资料）
 
 ### 全校通用
 
@@ -261,4 +261,4 @@ Vivado Wrapper For Linux CommandLine [vivado-wrapper](https://github.com/recolic
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-08._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-09._

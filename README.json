@@ -152,7 +152,7 @@
                 "open_issues": 0,
                 "owner": "SukunaShinmyoumaru-hust",
                 "repo": "Hust-opensource-Xuejie",
-                "stars": 655,
+                "stars": 656,
                 "topics": []
               },
               "first_seen": "2026-08-28T14:33:45.428Z"
@@ -493,7 +493,7 @@
                 "open_issues": 0,
                 "owner": "Oliver-242",
                 "repo": "HUST-Compiler-Principles-Experiment",
-                "stars": 74,
+                "stars": 73,
                 "topics": [
                   "c",
                   "flex",
@@ -1238,7 +1238,7 @@
                 "open_issues": 42,
                 "owner": "updateing",
                 "repo": "minieap",
-                "stars": 566,
+                "stars": 565,
                 "topics": []
               },
               "first_seen": "2026-08-28T14:33:45.428Z"
@@ -1297,7 +1297,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-08T07:24:20.755Z",
+    "last_updated": "2026-09-09T07:32:53.105Z",
     "original_repository_info": {
       "archived": false,
       "description": "HUST experiments, reports, and useful tools.",
