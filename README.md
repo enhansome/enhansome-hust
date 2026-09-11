@@ -56,7 +56,7 @@ HustLaTeX模板库 [Github](https://github.com/hust-latex) [Website](https://hus
 
 > 很多贡献者毕业之后会把全部资料整合为一个仓库, 因此不会再逐项列出. 请不要忘记查看.
 
-计科大多数课程的代码/报告 [husixu2](https://github.com/husixu1/HUST-Homeworks) ⚠️ Archived [sabertazimi](https://github.com/sabertazimi/hust-lab) ⭐ 31 | 🐛 0 | 🌐 C | 📅 2026-08-05 [WhatAboutMyStar](https://github.com/WhatAboutMyStar/HUSTDoubleDegree) ⭐ 72 | 🐛 0 | 🌐 C++ | 📅 2020-08-16 [HUSTERS](https://github.com/HUSTERGS/HUSTCS) ⭐ 164 | 🐛 0 | 🌐 C++ | 📅 2021-04-27 [AlexFanw](https://github.com/AlexFanw/HUSTER-CS) ⭐ 1,390 | 🐛 2 | 🌐 C | 📅 2023-12-13 [winderica](https://github.com/winderica/GoodbyeHUST) ⭐ 5 | 🐛 0 | 📅 2021-09-12 [recolic](https://git.recolic.net/recolic-hust/hust-homeworks-bundle)([recolic-mirror](https://github.com/recolic/hust-homeworks-bundle) ⭐ 1 | 🐛 0 | 🌐 C | 📅 2022-04-12) [Nuyoahwjl](https://github.com/Nuyoahwjl/HUST-CS) ⭐ 134 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2026-06-29 [asterich](https://github.com/asterich/hust-homework-and-labs) ⭐ 0 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2025-07-01
+计科大多数课程的代码/报告 [husixu2](https://github.com/husixu1/HUST-Homeworks) ⚠️ Archived [sabertazimi](https://github.com/sabertazimi/hust-lab) ⭐ 31 | 🐛 0 | 🌐 C | 📅 2026-08-05 [WhatAboutMyStar](https://github.com/WhatAboutMyStar/HUSTDoubleDegree) ⭐ 72 | 🐛 0 | 🌐 C++ | 📅 2020-08-16 [HUSTERS](https://github.com/HUSTERGS/HUSTCS) ⭐ 165 | 🐛 0 | 🌐 C++ | 📅 2021-04-27 [AlexFanw](https://github.com/AlexFanw/HUSTER-CS) ⭐ 1,390 | 🐛 2 | 🌐 C | 📅 2023-12-13 [winderica](https://github.com/winderica/GoodbyeHUST) ⭐ 5 | 🐛 0 | 📅 2021-09-12 [recolic](https://git.recolic.net/recolic-hust/hust-homeworks-bundle)([recolic-mirror](https://github.com/recolic/hust-homeworks-bundle) ⭐ 1 | 🐛 0 | 🌐 C | 📅 2022-04-12) [Nuyoahwjl](https://github.com/Nuyoahwjl/HUST-CS) ⭐ 134 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2026-06-29 [asterich](https://github.com/asterich/hust-homework-and-labs) ⭐ 0 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2025-07-01
 
 Sukuna的个人学解:[Sukuna](https://github.com/SukunaShinmyoumaru-hust/Hust-opensource-Xuejie) ⭐ 656 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2026-08-29
 
@@ -122,7 +122,7 @@ verilog实验 [zxc479773533](https://github.com/zxc479773533/HUST-Verilog-Labs) 
 
 ### SE 大一
 
-C语言课设 聪明的小蛇 [rapiz](https://github.com/Rapiz1/DungeonRush) ⭐ 2,172 | 🐛 16 | 🌐 C | 📅 2022-01-17
+C语言课设 聪明的小蛇 [rapiz](https://github.com/Rapiz1/DungeonRush) ⭐ 2,173 | 🐛 16 | 🌐 C | 📅 2022-01-17
 
 ### SE 大二
 
@@ -245,7 +245,7 @@ Vivado Wrapper For Linux CommandLine [vivado-wrapper](https://github.com/recolic
 
 > 放置对华科学生有**针对性**帮助的资料或其他材料。
 
-华中科技大学人工智能与自动化学院课程资料：[AIAHUB](https://github.com/AIAHUB/HUST-AIA-Courses-Resource/) ⭐ 247 | 🐛 0 | 🌐 CSS | 📅 2023-04-22 （包含部分深度学习及相关基础资料）
+华中科技大学人工智能与自动化学院课程资料：[AIAHUB](https://github.com/AIAHUB/HUST-AIA-Courses-Resource/) ⭐ 248 | 🐛 0 | 🌐 CSS | 📅 2023-04-22 （包含部分深度学习及相关基础资料）
 
 ### 全校通用
 
@@ -261,4 +261,4 @@ Vivado Wrapper For Linux CommandLine [vivado-wrapper](https://github.com/recolic
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-10._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-11._

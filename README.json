@@ -143,7 +143,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
-                "description": "一个华科计算机学院的资料集合 https://yuhangchen1.github.io/HUST_OPEN_SOURCE/",
+                "description": "一个华科计算机学院的资料集合",
                 "homepage": "https://www.sukunahust.moe",
                 "id": 617468854,
                 "language": "Jupyter Notebook",
@@ -682,7 +682,7 @@
                 "open_issues": 16,
                 "owner": "yujqiao",
                 "repo": "DungeonRush",
-                "stars": 2172,
+                "stars": 2173,
                 "topics": [
                   "c",
                   "game",
@@ -1297,7 +1297,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-10T07:29:20.390Z",
+    "last_updated": "2026-09-11T07:27:21.505Z",
     "original_repository_info": {
       "archived": false,
       "description": "HUST experiments, reports, and useful tools.",
