@@ -122,7 +122,7 @@ verilog实验 [zxc479773533](https://github.com/zxc479773533/HUST-Verilog-Labs) 
 
 ### SE 大一
 
-C语言课设 聪明的小蛇 [rapiz](https://github.com/Rapiz1/DungeonRush) ⭐ 2,173 | 🐛 16 | 🌐 C | 📅 2022-01-17
+C语言课设 聪明的小蛇 [rapiz](https://github.com/Rapiz1/DungeonRush) ⭐ 2,171 | 🐛 16 | 🌐 C | 📅 2022-01-17
 
 ### SE 大二
 
@@ -261,4 +261,4 @@ Vivado Wrapper For Linux CommandLine [vivado-wrapper](https://github.com/recolic
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-11._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-12._
