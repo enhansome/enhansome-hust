@@ -152,7 +152,7 @@
                 "open_issues": 0,
                 "owner": "SukunaShinmyoumaru-hust",
                 "repo": "Hust-opensource-Xuejie",
-                "stars": 659,
+                "stars": 662,
                 "topics": []
               },
               "first_seen": "2026-08-28T14:33:45.428Z"
@@ -682,7 +682,7 @@
                 "open_issues": 16,
                 "owner": "yujqiao",
                 "repo": "DungeonRush",
-                "stars": 2172,
+                "stars": 2174,
                 "topics": [
                   "c",
                   "game",
@@ -1043,7 +1043,7 @@
                 "open_issues": 0,
                 "owner": "zichuanxu",
                 "repo": "HUST-CSE-Experiments",
-                "stars": 388,
+                "stars": 389,
                 "topics": []
               },
               "first_seen": "2026-08-28T14:33:45.428Z"
@@ -1297,7 +1297,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-14T08:04:56.875Z",
+    "last_updated": "2026-09-15T07:59:50.968Z",
     "original_repository_info": {
       "archived": false,
       "description": "HUST experiments, reports, and useful tools.",
