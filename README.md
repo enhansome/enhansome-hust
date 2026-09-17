@@ -42,7 +42,7 @@ else:
 
 HustLaTeX模板库 [Github](https://github.com/hust-latex) [Website](https://hust-latex.github.io/)
 
-毕业论文LaTeX模板 [本科-Github](https://github.com/skinaze/HUSTPaperTemp) ⭐ 333 | 🐛 4 | 🌐 TeX | 📅 2022-04-12 [研究生-CTAN](https://ctan.org/pkg/hustthesis)
+毕业论文LaTeX模板 [本科-Github](https://github.com/skinaze/HUSTPaperTemp) ⭐ 332 | 🐛 4 | 🌐 TeX | 📅 2022-04-12 [研究生-CTAN](https://ctan.org/pkg/hustthesis)
 
 2023年本科毕业论文LaTeX模版 [Sukuna](https://github.com/SukunaShinmyoumaru-hust/template-of-thesis) ⭐ 27 | 🐛 1 | 🌐 TeX | 📅 2026-04-29
 
@@ -261,4 +261,4 @@ Vivado Wrapper For Linux CommandLine [vivado-wrapper](https://github.com/recolic
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-16._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-17._

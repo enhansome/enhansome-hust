@@ -21,7 +21,7 @@
                 "open_issues": 4,
                 "owner": "skinaze",
                 "repo": "HUSTPaperTemp",
-                "stars": 333,
+                "stars": 332,
                 "topics": [
                   "hust",
                   "latex",
@@ -1297,7 +1297,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-16T07:52:38.720Z",
+    "last_updated": "2026-09-17T07:57:20.674Z",
     "original_repository_info": {
       "archived": false,
       "description": "HUST experiments, reports, and useful tools.",
