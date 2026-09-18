@@ -1238,7 +1238,7 @@
                 "open_issues": 42,
                 "owner": "updateing",
                 "repo": "minieap",
-                "stars": 566,
+                "stars": 567,
                 "topics": []
               },
               "first_seen": "2026-08-28T14:33:45.428Z"
@@ -1297,7 +1297,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-17T07:57:20.674Z",
+    "last_updated": "2026-09-18T07:35:21.873Z",
     "original_repository_info": {
       "archived": false,
       "description": "HUST experiments, reports, and useful tools.",
