@@ -46,7 +46,7 @@ HustLaTeX模板库 [Github](https://github.com/hust-latex) [Website](https://hus
 
 2023年本科毕业论文LaTeX模版 [Sukuna](https://github.com/SukunaShinmyoumaru-hust/template-of-thesis) ⭐ 27 | 🐛 1 | 🌐 TeX | 📅 2026-04-29
 
-本科毕业论文 Typst 模板 [HUST-typst-template](https://github.com/werifu/HUST-typst-template) ⭐ 238 | 🐛 7 | 🌐 Typst | 📅 2025-06-16
+本科毕业论文 Typst 模板 [HUST-typst-template](https://github.com/werifu/HUST-typst-template) ⭐ 239 | 🐛 7 | 🌐 Typst | 📅 2025-06-16
 
 动态网页设计公选课 [2018年秋](https://github.com/ttzztztz/Dynamic-Web-Design-Homework) ⚠️ Archived [2020年秋](https://github.com/ttzztztz/Dynamic-Web-Course-Homework) ⚠️ Archived
 
@@ -261,4 +261,4 @@ Vivado Wrapper For Linux CommandLine [vivado-wrapper](https://github.com/recolic
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-20._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-21._
