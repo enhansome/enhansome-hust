@@ -125,7 +125,7 @@
                 "open_issues": 0,
                 "owner": "husixu1",
                 "repo": "HUST-Homeworks",
-                "stars": 265,
+                "stars": 264,
                 "topics": [
                   "homework",
                   "hust",
@@ -1297,7 +1297,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-22T07:55:37.217Z",
+    "last_updated": "2026-09-23T07:56:30.810Z",
     "original_repository_info": {
       "archived": false,
       "description": "HUST experiments, reports, and useful tools.",
