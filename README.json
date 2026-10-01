@@ -51,7 +51,7 @@
                 "open_issues": 7,
                 "owner": "werifu",
                 "repo": "HUST-typst-template",
-                "stars": 239,
+                "stars": 240,
                 "topics": [
                   "hust",
                   "typst",
@@ -1297,7 +1297,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-30T08:57:04.892Z",
+    "last_updated": "2026-10-01T09:22:03.936Z",
     "original_repository_info": {
       "archived": false,
       "description": "HUST experiments, reports, and useful tools.",
@@ -1309,7 +1309,7 @@
       "open_issues": 0,
       "owner": "recolic",
       "repo": "awesome-hust",
-      "stars": 744,
+      "stars": 745,
       "topics": [
         "awesome-list",
         "hust"
