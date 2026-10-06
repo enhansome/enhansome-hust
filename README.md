@@ -46,7 +46,7 @@ HustLaTeX模板库 [Github](https://github.com/hust-latex) [Website](https://hus
 
 2023年本科毕业论文LaTeX模版 [Sukuna](https://github.com/SukunaShinmyoumaru-hust/template-of-thesis) ⭐ 27 | 🐛 1 | 🌐 TeX | 📅 2026-04-29
 
-本科毕业论文 Typst 模板 [HUST-typst-template](https://github.com/werifu/HUST-typst-template) ⭐ 240 | 🐛 7 | 🌐 Typst | 📅 2025-06-16
+本科毕业论文 Typst 模板 [HUST-typst-template](https://github.com/werifu/HUST-typst-template) ⭐ 241 | 🐛 7 | 🌐 Typst | 📅 2025-06-16
 
 动态网页设计公选课 [2018年秋](https://github.com/ttzztztz/Dynamic-Web-Design-Homework) ⚠️ Archived [2020年秋](https://github.com/ttzztztz/Dynamic-Web-Course-Homework) ⚠️ Archived
 
@@ -122,7 +122,7 @@ verilog实验 [zxc479773533](https://github.com/zxc479773533/HUST-Verilog-Labs) 
 
 ### SE 大一
 
-C语言课设 聪明的小蛇 [rapiz](https://github.com/Rapiz1/DungeonRush) ⭐ 2,175 | 🐛 16 | 🌐 C | 📅 2022-01-17
+C语言课设 聪明的小蛇 [rapiz](https://github.com/Rapiz1/DungeonRush) ⭐ 2,176 | 🐛 16 | 🌐 C | 📅 2022-01-17
 
 ### SE 大二
 
@@ -182,7 +182,7 @@ C语言程序设计实验 [jingfelix-2020](https://github.com/jingfelix/HUST-C-P
 
 Markdown文档一键转换华科docx报告工具 [md2report](https://github.com/woolen-sheep/md2report) ⭐ 436 | 🐛 2 | 🌐 Python | 📅 2023-01-14 [文档](https://woolen-sheep.github.io/md2report/)
 
-微助教自动签到工具（支持普通/GPS/二维码签到）[yatm](https://github.com/ManiaciaChao/yatm) ⭐ 143 | 🐛 4 | 🌐 TypeScript | 📅 2025-03-13
+微助教自动签到工具（支持普通/GPS/二维码签到）[yatm](https://github.com/ManiaciaChao/yatm) ⭐ 144 | 🐛 4 | 🌐 TypeScript | 📅 2025-03-13
 
 签个马 签到平台框架(支持多任务超星签到+微助教Android/Web二维码回传签到+微信通知推送) [sign-your-horse](https://github.com/naivekun/sign-your-horse) ⭐ 42 | 🐛 2 | 🌐 Go | 📅 2021-11-20 [cloudscan-android](https://github.com/naivekun/cloudscan-android) ⭐ 1 | 🐛 0 | 🌐 Java | 📅 2020-11-10 [cloudscan-web](https://github.com/EarthCompass/CloudScan-WEB) ⭐ 0 | 🐛 1 | 🌐 JavaScript | 📅 2021-10-15
 
@@ -261,4 +261,4 @@ Vivado Wrapper For Linux CommandLine [vivado-wrapper](https://github.com/recolic
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-05._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-06._
