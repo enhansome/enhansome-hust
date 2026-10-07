@@ -122,7 +122,7 @@ verilog实验 [zxc479773533](https://github.com/zxc479773533/HUST-Verilog-Labs) 
 
 ### SE 大一
 
-C语言课设 聪明的小蛇 [rapiz](https://github.com/Rapiz1/DungeonRush) ⭐ 2,176 | 🐛 16 | 🌐 C | 📅 2022-01-17
+C语言课设 聪明的小蛇 [rapiz](https://github.com/Rapiz1/DungeonRush) ⭐ 2,175 | 🐛 16 | 🌐 C | 📅 2022-01-17
 
 ### SE 大二
 
@@ -214,7 +214,7 @@ Polyv-cn平台网络课程自动签到脚本 [polyv-fucker](https://github.com/t
 
 英语视听说book2秒速做题 [Macsed](https://github.com/MacsedProtoss/unipus) ⭐ 0 | 🐛 0 | 🌐 JavaScript | 📅 2019-06-01
 
-开源的有线校园网认证工具 [minieap](https://github.com/updateing/minieap) ⭐ 568 | 🐛 42 | 🌐 C | 📅 2023-09-21 [mentohust(ArchWiki)](https://wiki.archlinux.org/index.php/MentoHUST_%28%E7%AE%80%E4%BD%93%E4%B8%AD%E6%96%87%29)
+开源的有线校园网认证工具 [minieap](https://github.com/updateing/minieap) ⭐ 567 | 🐛 42 | 🌐 C | 📅 2023-09-21 [mentohust(ArchWiki)](https://wiki.archlinux.org/index.php/MentoHUST_%28%E7%AE%80%E4%BD%93%E4%B8%AD%E6%96%87%29)
 
 开源的无线校园网认证工具 [hust-login(with RSA support, only python script usable)](https://github.com/Cra1gTucker/hust-login) ⭐ 13 | 🐛 0 | 🌐 Python | 📅 2021-08-10 [hust\_wireless.sh-用于低性能设备的精简版(密码未加密，不推荐)](https://github.com/recolic/awesome-hust/blob/master/res/hust_wireless.sh) [HUST-login(bash script单文件版，支持RSA加密)](https://github.com/185264646/HUST-login) ⭐ 4 | 🐛 0 | 🌐 Shell | 📅 2024-02-20 [hust-network-login-esp （适合不能刷固件的路由器使用，支持 RSA 加密）](https://github.com/vaaandark/hust-network-login-esp) ⭐ 8 | 🐛 0 | 🌐 C++ | 📅 2023-05-25
 
@@ -237,7 +237,7 @@ Polyv-cn平台网络课程自动签到脚本 [polyv-fucker](https://github.com/t
 
 ### CS/SE/CSE only
 
-通过 C/C++ 代码生成流程图 [cxx2flow](https://github.com/Enter-tainer/cxx2flow) ⭐ 820 | 🐛 10 | 🌐 Rust | 📅 2026-04-06
+通过 C/C++ 代码生成流程图 [cxx2flow](https://github.com/Enter-tainer/cxx2flow) ⭐ 821 | 🐛 10 | 🌐 Rust | 📅 2026-04-06
 
 Vivado Wrapper For Linux CommandLine [vivado-wrapper](https://github.com/recolic/vivado-wrapper) ⭐ 14 | 🐛 0 | 🌐 Shell | 📅 2021-03-25
 
@@ -261,4 +261,4 @@ Vivado Wrapper For Linux CommandLine [vivado-wrapper](https://github.com/recolic
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-06._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-07._
