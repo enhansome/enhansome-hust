@@ -58,7 +58,7 @@ HustLaTeX模板库 [Github](https://github.com/hust-latex) [Website](https://hus
 
 计科大多数课程的代码/报告 [husixu2](https://github.com/husixu1/HUST-Homeworks) ⚠️ Archived [sabertazimi](https://github.com/sabertazimi/hust-lab) ⭐ 31 | 🐛 0 | 🌐 C | 📅 2026-08-05 [WhatAboutMyStar](https://github.com/WhatAboutMyStar/HUSTDoubleDegree) ⭐ 72 | 🐛 0 | 🌐 C++ | 📅 2020-08-16 [HUSTERS](https://github.com/HUSTERGS/HUSTCS) ⭐ 163 | 🐛 0 | 🌐 C++ | 📅 2021-04-27 [AlexFanw](https://github.com/AlexFanw/HUSTER-CS) ⭐ 1,398 | 🐛 2 | 🌐 C | 📅 2023-12-13 [winderica](https://github.com/winderica/GoodbyeHUST) ⭐ 5 | 🐛 0 | 📅 2021-09-12 [recolic](https://git.recolic.net/recolic-hust/hust-homeworks-bundle)([recolic-mirror](https://github.com/recolic/hust-homeworks-bundle) ⭐ 1 | 🐛 0 | 🌐 C | 📅 2026-10-01) [Nuyoahwjl](https://github.com/Nuyoahwjl/HUST-CS) ⭐ 148 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2026-06-29 [asterich](https://github.com/asterich/hust-homework-and-labs) ⭐ 0 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2025-07-01
 
-Sukuna的个人学解:[Sukuna](https://github.com/SukunaShinmyoumaru-hust/Hust-opensource-Xuejie) ⭐ 676 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2026-08-29
+Sukuna的个人学解:[Sukuna](https://github.com/SukunaShinmyoumaru-hust/Hust-opensource-Xuejie) ⭐ 677 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2026-08-29
 
 ### CS 大一
 
@@ -261,4 +261,4 @@ Vivado Wrapper For Linux CommandLine [vivado-wrapper](https://github.com/recolic
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-23._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-24._
