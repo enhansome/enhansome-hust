@@ -21,7 +21,7 @@
                 "open_issues": 4,
                 "owner": "skinaze",
                 "repo": "HUSTPaperTemp",
-                "stars": 332,
+                "stars": 333,
                 "topics": [
                   "hust",
                   "latex",
@@ -51,7 +51,7 @@
                 "open_issues": 7,
                 "owner": "werifu",
                 "repo": "HUST-typst-template",
-                "stars": 242,
+                "stars": 243,
                 "topics": [
                   "hust",
                   "typst",
@@ -152,7 +152,7 @@
                 "open_issues": 0,
                 "owner": "SukunaShinmyoumaru-hust",
                 "repo": "Hust-opensource-Xuejie",
-                "stars": 678,
+                "stars": 680,
                 "topics": []
               },
               "first_seen": "2026-08-28T14:33:45.428Z"
@@ -1297,7 +1297,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-25T07:46:52.662Z",
+    "last_updated": "2026-10-26T08:04:14.876Z",
     "original_repository_info": {
       "archived": false,
       "description": "HUST experiments, reports, and useful tools.",
