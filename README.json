@@ -682,7 +682,7 @@
                 "open_issues": 16,
                 "owner": "yujqiao",
                 "repo": "DungeonRush",
-                "stars": 2176,
+                "stars": 2177,
                 "topics": [
                   "c",
                   "game",
@@ -1297,7 +1297,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-01T09:37:37.905Z",
+    "last_updated": "2026-11-02T09:53:43.305Z",
     "original_repository_info": {
       "archived": false,
       "description": "HUST experiments, reports, and useful tools.",
