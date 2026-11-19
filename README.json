@@ -1297,7 +1297,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-18T10:38:10.438Z",
+    "last_updated": "2026-11-19T10:42:35.886Z",
     "original_repository_info": {
       "archived": false,
       "description": "HUST experiments, reports, and useful tools.",
@@ -1309,7 +1309,7 @@
       "open_issues": 0,
       "owner": "recolic",
       "repo": "awesome-hust",
-      "stars": 751,
+      "stars": 750,
       "topics": [
         "awesome-list",
         "hust"
