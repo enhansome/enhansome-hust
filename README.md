@@ -36,7 +36,7 @@ else:
 
 大学物理实验相关(数据处理套装+网站登陆API+拉取用户信息) [Recolic](https://git.recolic.net/recolic-hust/phy-exp)
 
-大学物理实验(二)画图 [`偏振与双折射`](https://github.com/LoveThinkinghard/HUST-Physcis-Experiments-Plot-and-Dataprocess/tree/master/%E5%81%8F%E6%8C%AF%E4%B8%8E%E5%8F%8C%E6%8A%98%E5%B0%84) ⭐ 50 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2024-09-18 [`音叉`](https://github.com/LoveThinkinghard/HUST-Physcis-Experiments-Plot-and-Dataprocess/tree/master/%E9%9F%B3%E5%8F%89%E5%AE%9E%E9%AA%8C) ⭐ 50 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2024-09-18 [`导热系数`](https://github.com/LoveThinkinghard/HUST-Physcis-Experiments-Plot-and-Dataprocess/tree/master/%E5%AF%BC%E7%83%AD%E7%B3%BB%E6%95%B0) ⭐ 50 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2024-09-18
+大学物理实验(二)画图 [`偏振与双折射`](https://github.com/LoveThinkinghard/HUST-Physcis-Experiments-Plot-and-Dataprocess/tree/master/%E5%81%8F%E6%8C%AF%E4%B8%8E%E5%8F%8C%E6%8A%98%E5%B0%84) ⭐ 49 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2024-09-18 [`音叉`](https://github.com/LoveThinkinghard/HUST-Physcis-Experiments-Plot-and-Dataprocess/tree/master/%E9%9F%B3%E5%8F%89%E5%AE%9E%E9%AA%8C) ⭐ 49 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2024-09-18 [`导热系数`](https://github.com/LoveThinkinghard/HUST-Physcis-Experiments-Plot-and-Dataprocess/tree/master/%E5%AF%BC%E7%83%AD%E7%B3%BB%E6%95%B0) ⭐ 49 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2024-09-18
 
 ![音叉实验](https://github.com/LoveThinkinghard/HUST-Physcis-Experiments-Plot-and-Dataprocess/blob/master/%E9%9F%B3%E5%8F%89%E5%AE%9E%E9%AA%8C/damped.png)![偏振与双折射](https://github.com/LoveThinkinghard/HUST-Physcis-Experiments-Plot-and-Dataprocess/blob/master/%E5%81%8F%E6%8C%AF%E4%B8%8E%E5%8F%8C%E6%8A%98%E5%B0%84/I-%CE%B8%20on%20polor%20axis.png)
 
@@ -56,9 +56,9 @@ HustLaTeX模板库 [Github](https://github.com/hust-latex) [Website](https://hus
 
 > 很多贡献者毕业之后会把全部资料整合为一个仓库, 因此不会再逐项列出. 请不要忘记查看.
 
-计科大多数课程的代码/报告 [husixu2](https://github.com/husixu1/HUST-Homeworks) ⚠️ Archived [sabertazimi](https://github.com/sabertazimi/hust-lab) ⭐ 31 | 🐛 0 | 🌐 C | 📅 2026-08-05 [WhatAboutMyStar](https://github.com/WhatAboutMyStar/HUSTDoubleDegree) ⭐ 72 | 🐛 0 | 🌐 C++ | 📅 2020-08-16 [HUSTERS](https://github.com/HUSTERGS/HUSTCS) ⭐ 163 | 🐛 0 | 🌐 C++ | 📅 2021-04-27 [AlexFanw](https://github.com/AlexFanw/HUSTER-CS) ⭐ 1,402 | 🐛 2 | 🌐 C | 📅 2023-12-13 [winderica](https://github.com/winderica/GoodbyeHUST) ⭐ 5 | 🐛 0 | 📅 2021-09-12 [recolic](https://git.recolic.net/recolic-hust/hust-homeworks-bundle)([recolic-mirror](https://github.com/recolic/hust-homeworks-bundle) ⭐ 1 | 🐛 0 | 🌐 C | 📅 2026-10-01) [Nuyoahwjl](https://github.com/Nuyoahwjl/HUST-CS) ⭐ 158 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2026-06-29 [asterich](https://github.com/asterich/hust-homework-and-labs) ⭐ 0 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2025-07-01
+计科大多数课程的代码/报告 [husixu2](https://github.com/husixu1/HUST-Homeworks) ⚠️ Archived [sabertazimi](https://github.com/sabertazimi/hust-lab) ⭐ 31 | 🐛 0 | 🌐 C | 📅 2026-08-05 [WhatAboutMyStar](https://github.com/WhatAboutMyStar/HUSTDoubleDegree) ⭐ 72 | 🐛 0 | 🌐 C++ | 📅 2020-08-16 [HUSTERS](https://github.com/HUSTERGS/HUSTCS) ⭐ 163 | 🐛 0 | 🌐 C++ | 📅 2021-04-27 [AlexFanw](https://github.com/AlexFanw/HUSTER-CS) ⭐ 1,403 | 🐛 2 | 🌐 C | 📅 2023-12-13 [winderica](https://github.com/winderica/GoodbyeHUST) ⭐ 5 | 🐛 0 | 📅 2021-09-12 [recolic](https://git.recolic.net/recolic-hust/hust-homeworks-bundle)([recolic-mirror](https://github.com/recolic/hust-homeworks-bundle) ⭐ 1 | 🐛 0 | 🌐 C | 📅 2026-10-01) [Nuyoahwjl](https://github.com/Nuyoahwjl/HUST-CS) ⭐ 158 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2026-06-29 [asterich](https://github.com/asterich/hust-homework-and-labs) ⭐ 0 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2025-07-01
 
-Sukuna的个人学解:[Sukuna](https://github.com/SukunaShinmyoumaru-hust/Hust-opensource-Xuejie) ⭐ 691 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2026-08-29
+Sukuna的个人学解:[Sukuna](https://github.com/SukunaShinmyoumaru-hust/Hust-opensource-Xuejie) ⭐ 691 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2026-11-21
 
 ### CS 大一
 
@@ -214,7 +214,7 @@ Polyv-cn平台网络课程自动签到脚本 [polyv-fucker](https://github.com/t
 
 英语视听说book2秒速做题 [Macsed](https://github.com/MacsedProtoss/unipus) ⭐ 0 | 🐛 0 | 🌐 JavaScript | 📅 2019-06-01
 
-开源的有线校园网认证工具 [minieap](https://github.com/updateing/minieap) ⭐ 569 | 🐛 42 | 🌐 C | 📅 2023-09-21 [mentohust(ArchWiki)](https://wiki.archlinux.org/index.php/MentoHUST_%28%E7%AE%80%E4%BD%93%E4%B8%AD%E6%96%87%29)
+开源的有线校园网认证工具 [minieap](https://github.com/updateing/minieap) ⭐ 570 | 🐛 42 | 🌐 C | 📅 2023-09-21 [mentohust(ArchWiki)](https://wiki.archlinux.org/index.php/MentoHUST_%28%E7%AE%80%E4%BD%93%E4%B8%AD%E6%96%87%29)
 
 开源的无线校园网认证工具 [hust-login(with RSA support, only python script usable)](https://github.com/Cra1gTucker/hust-login) ⭐ 13 | 🐛 0 | 🌐 Python | 📅 2021-08-10 [hust\_wireless.sh-用于低性能设备的精简版(密码未加密，不推荐)](https://github.com/recolic/awesome-hust/blob/master/res/hust_wireless.sh) [HUST-login(bash script单文件版，支持RSA加密)](https://github.com/185264646/HUST-login) ⭐ 4 | 🐛 0 | 🌐 Shell | 📅 2024-02-20 [hust-network-login-esp （适合不能刷固件的路由器使用，支持 RSA 加密）](https://github.com/vaaandark/hust-network-login-esp) ⭐ 8 | 🐛 0 | 🌐 C++ | 📅 2023-05-25
 
@@ -261,4 +261,4 @@ Vivado Wrapper For Linux CommandLine [vivado-wrapper](https://github.com/recolic
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-21._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-22._

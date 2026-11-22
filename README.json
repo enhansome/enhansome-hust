@@ -148,7 +148,7 @@
                 "id": 617468854,
                 "language": "Jupyter Notebook",
                 "license": "MIT",
-                "last_commit": "2026-08-29T14:14:03Z",
+                "last_commit": "2026-11-21T14:16:25Z",
                 "open_issues": 0,
                 "owner": "SukunaShinmyoumaru-hust",
                 "repo": "Hust-opensource-Xuejie",
@@ -1238,7 +1238,7 @@
                 "open_issues": 42,
                 "owner": "updateing",
                 "repo": "minieap",
-                "stars": 569,
+                "stars": 570,
                 "topics": []
               },
               "first_seen": "2026-08-28T14:33:45.428Z"
@@ -1297,7 +1297,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-21T10:07:29.174Z",
+    "last_updated": "2026-11-22T10:11:27.723Z",
     "original_repository_info": {
       "archived": false,
       "description": "HUST experiments, reports, and useful tools.",
