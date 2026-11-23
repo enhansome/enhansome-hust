@@ -182,7 +182,7 @@ C语言程序设计实验 [jingfelix-2020](https://github.com/jingfelix/HUST-C-P
 
 Markdown文档一键转换华科docx报告工具 [md2report](https://github.com/woolen-sheep/md2report) ⭐ 436 | 🐛 2 | 🌐 Python | 📅 2023-01-14 [文档](https://woolen-sheep.github.io/md2report/)
 
-微助教自动签到工具（支持普通/GPS/二维码签到）[yatm](https://github.com/ManiaciaChao/yatm) ⭐ 148 | 🐛 4 | 🌐 TypeScript | 📅 2025-03-13
+微助教自动签到工具（支持普通/GPS/二维码签到）[yatm](https://github.com/ManiaciaChao/yatm) ⭐ 149 | 🐛 4 | 🌐 TypeScript | 📅 2025-03-13
 
 签个马 签到平台框架(支持多任务超星签到+微助教Android/Web二维码回传签到+微信通知推送) [sign-your-horse](https://github.com/naivekun/sign-your-horse) ⭐ 42 | 🐛 2 | 🌐 Go | 📅 2021-11-20 [cloudscan-android](https://github.com/naivekun/cloudscan-android) ⭐ 1 | 🐛 0 | 🌐 Java | 📅 2020-11-10 [cloudscan-web](https://github.com/EarthCompass/CloudScan-WEB) ⭐ 0 | 🐛 1 | 🌐 JavaScript | 📅 2021-10-15
 
@@ -261,4 +261,4 @@ Vivado Wrapper For Linux CommandLine [vivado-wrapper](https://github.com/recolic
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-22._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-23._
