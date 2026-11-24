@@ -682,7 +682,7 @@
                 "open_issues": 16,
                 "owner": "yujqiao",
                 "repo": "DungeonRush",
-                "stars": 2178,
+                "stars": 2179,
                 "topics": [
                   "c",
                   "game",
@@ -1282,7 +1282,7 @@
                 "open_issues": 2,
                 "owner": "HUSTERGS",
                 "repo": "HUST-GPA",
-                "stars": 13,
+                "stars": 14,
                 "topics": []
               },
               "first_seen": "2026-08-28T14:33:45.428Z"
@@ -1297,7 +1297,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-23T11:08:29.147Z",
+    "last_updated": "2026-11-24T12:52:14.877Z",
     "original_repository_info": {
       "archived": false,
       "description": "HUST experiments, reports, and useful tools.",
