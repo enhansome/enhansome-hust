@@ -152,7 +152,7 @@
                 "open_issues": 0,
                 "owner": "SukunaShinmyoumaru-hust",
                 "repo": "Hust-opensource-Xuejie",
-                "stars": 691,
+                "stars": 694,
                 "topics": []
               },
               "first_seen": "2026-08-28T14:33:45.428Z"
@@ -1043,7 +1043,7 @@
                 "open_issues": 0,
                 "owner": "zichuanxu",
                 "repo": "HUST-CSE-Experiments",
-                "stars": 387,
+                "stars": 388,
                 "topics": []
               },
               "first_seen": "2026-08-28T14:33:45.428Z"
@@ -1133,7 +1133,7 @@
                 "open_issues": 0,
                 "owner": "ttzztztz",
                 "repo": "chaoxing-pv-fucker",
-                "stars": 0,
+                "stars": 1,
                 "topics": []
               },
               "first_seen": "2026-08-28T14:33:45.428Z"
@@ -1297,7 +1297,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-24T12:52:14.877Z",
+    "last_updated": "2026-11-25T11:39:12.508Z",
     "original_repository_info": {
       "archived": false,
       "description": "HUST experiments, reports, and useful tools.",

@@ -58,7 +58,7 @@ HustLaTeX模板库 [Github](https://github.com/hust-latex) [Website](https://hus
 
 计科大多数课程的代码/报告 [husixu2](https://github.com/husixu1/HUST-Homeworks) ⚠️ Archived [sabertazimi](https://github.com/sabertazimi/hust-lab) ⭐ 31 | 🐛 0 | 🌐 C | 📅 2026-08-05 [WhatAboutMyStar](https://github.com/WhatAboutMyStar/HUSTDoubleDegree) ⭐ 72 | 🐛 0 | 🌐 C++ | 📅 2020-08-16 [HUSTERS](https://github.com/HUSTERGS/HUSTCS) ⭐ 164 | 🐛 0 | 🌐 C++ | 📅 2021-04-27 [AlexFanw](https://github.com/AlexFanw/HUSTER-CS) ⭐ 1,403 | 🐛 2 | 🌐 C | 📅 2023-12-13 [winderica](https://github.com/winderica/GoodbyeHUST) ⭐ 5 | 🐛 0 | 📅 2021-09-12 [recolic](https://git.recolic.net/recolic-hust/hust-homeworks-bundle)([recolic-mirror](https://github.com/recolic/hust-homeworks-bundle) ⭐ 1 | 🐛 0 | 🌐 C | 📅 2026-10-01) [Nuyoahwjl](https://github.com/Nuyoahwjl/HUST-CS) ⭐ 158 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2026-06-29 [asterich](https://github.com/asterich/hust-homework-and-labs) ⭐ 0 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2025-07-01
 
-Sukuna的个人学解:[Sukuna](https://github.com/SukunaShinmyoumaru-hust/Hust-opensource-Xuejie) ⭐ 691 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2026-11-21
+Sukuna的个人学解:[Sukuna](https://github.com/SukunaShinmyoumaru-hust/Hust-opensource-Xuejie) ⭐ 694 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2026-11-21
 
 ### CS 大一
 
@@ -162,7 +162,7 @@ ERP与供应链 [ttzztztz\_2021年春](https://github.com/ttzztztz/sse-erp) ⚠�
 
 ### CSE 通用
 
-网安大多数课程的代码/报告 [ZCXu1](https://github.com/ZCXu1/HUST-CSE-Experiments) ⭐ 387 | 🐛 0 | 🌐 C | 📅 2023-09-14
+网安大多数课程的代码/报告 [ZCXu1](https://github.com/ZCXu1/HUST-CSE-Experiments) ⭐ 388 | 🐛 0 | 🌐 C | 📅 2023-09-14
 
 ### CSE 大一
 
@@ -186,13 +186,13 @@ Markdown文档一键转换华科docx报告工具 [md2report](https://github.com/
 
 签个马 签到平台框架(支持多任务超星签到+微助教Android/Web二维码回传签到+微信通知推送) [sign-your-horse](https://github.com/naivekun/sign-your-horse) ⭐ 42 | 🐛 2 | 🌐 Go | 📅 2021-11-20 [cloudscan-android](https://github.com/naivekun/cloudscan-android) ⭐ 1 | 🐛 0 | 🌐 Java | 📅 2020-11-10 [cloudscan-web](https://github.com/EarthCompass/CloudScan-WEB) ⭐ 0 | 🐛 1 | 🌐 JavaScript | 📅 2021-10-15
 
-超星刷课程访问量工具 [chaoxing-pv-fucker](https://github.com/ttzztztz/chaoxing-pv-fucker) ⭐ 0 | 🐛 0 | 🌐 JavaScript | 📅 2021-03-12
+超星刷课程访问量工具 [chaoxing-pv-fucker](https://github.com/ttzztztz/chaoxing-pv-fucker) ⭐ 1 | 🐛 0 | 🌐 JavaScript | 📅 2021-03-12
 
 Polyv-cn平台网络课程自动签到脚本 [polyv-fucker](https://github.com/ttzztztz/polyv-fucker) ⭐ 2 | 🐛 5 | 🌐 JavaScript | 📅 2022-12-10
 
 超星题库搜索小工具 [Macsed(仅限MacOS)](https://github.com/MacsedProtoss/CxmoocAnswerBrowser) ⭐ 1 | 🐛 0 | 🌐 Swift | 📅 2020-04-19
 
-超星学习通签到工具(支持手势签到) [ttzztztz](https://github.com/ttzztztz/chaoxingsign) ⭐ 3 | 🐛 0 | 🌐 Python | 📅 2021-05-30
+超星学习通签到工具(支持手势签到) [ttzztztz](https://github.com/ttzztztz/chaoxingsign) ⭐ 4 | 🐛 0 | 🌐 Python | 📅 2021-05-30
 
 蓝墨云课堂自动签到 [YAMT-Fucker](https://github.com/CGSportFucker/YAMT-Fucker) ⭐ 1 | 🐛 0 | 🌐 JavaScript | 📅 2021-02-13
 
@@ -237,7 +237,7 @@ Polyv-cn平台网络课程自动签到脚本 [polyv-fucker](https://github.com/t
 
 ### CS/SE/CSE only
 
-通过 C/C++ 代码生成流程图 [cxx2flow](https://github.com/Enter-tainer/cxx2flow) ⭐ 822 | 🐛 10 | 🌐 Rust | 📅 2026-04-06
+通过 C/C++ 代码生成流程图 [cxx2flow](https://github.com/Enter-tainer/cxx2flow) ⭐ 823 | 🐛 10 | 🌐 Rust | 📅 2026-04-06
 
 Vivado Wrapper For Linux CommandLine [vivado-wrapper](https://github.com/recolic/vivado-wrapper) ⭐ 14 | 🐛 0 | 🌐 Shell | 📅 2021-03-25
 
@@ -261,4 +261,4 @@ Vivado Wrapper For Linux CommandLine [vivado-wrapper](https://github.com/recolic
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-24._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-25._
